@@ -32,7 +32,7 @@ def main():
         "lc": lc_stats,
         "deployments": deployment_stats,
         "online_deployments": online_count,
-        "current_focus": "Agentic AI & Production Systems",
+        "current_focus": "Agentic AI &amp; Production Systems",
         "date": current_date
     }
     
