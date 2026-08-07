@@ -1,0 +1,54 @@
+{
+    "gh": {
+        "days_on_github": 600,
+        "total_commits": 178,
+        "public_repos": 7,
+        "followers": 1,
+        "stars": 0,
+        "forks": 0,
+        "total_prs": 0,
+        "total_issues": 0,
+        "latest_repo": "kranthi-06/kranthi-06",
+        "latest_commit": "No recent commits"
+    },
+    "lc": {
+        "solved": 0,
+        "ranking": 0,
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+    },
+    "deployments": [
+        {
+            "name": "Portfolio",
+            "url": "https://kasakranthikiran.vercel.app",
+            "status": "ONLINE",
+            "tech": "React, Framer Motion"
+        },
+        {
+            "name": "LakshyaTrack",
+            "url": "https://lakshyatrack.vercel.app/",
+            "status": "ONLINE",
+            "tech": "Next.js, TypeScript"
+        },
+        {
+            "name": "Emergent",
+            "url": "https://emergent-theta.vercel.app/dashboard",
+            "status": "OFFLINE",
+            "tech": "IoT, React"
+        },
+        {
+            "name": "AI Plant Disease",
+            "url": "https://ai-plant-disease-analysis.vercel.app/",
+            "status": "ONLINE",
+            "tech": "PyTorch, OpenCV"
+        },
+        {
+            "name": "Speech to Sign",
+            "url": "",
+            "status": "COMING SOON",
+            "tech": "TensorFlow, NLP"
+        }
+    ],
+    "date": "August 07, 2026"
+}

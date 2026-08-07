@@ -14,14 +14,10 @@
   <img src="assets/divider-gradient.svg" width="800" alt="Divider" />
 </div>
 
-<br/>
-
 <div align="center">
-  <h2>Engineering Excellence &middot; Artificial Intelligence &middot; System Architecture</h2>
+  <h2>Mission</h2>
   <p align="center" style="color: #94A3B8; font-size: 16px; line-height: 1.6; max-width: 700px; margin: 0 auto;">
-    I am a Senior AI Engineer and Full Stack Developer specializing in artificial intelligence and modern web architectures. <br />
-    My focus is on building scalable, production-grade AI solutions and premium user experiences. <br />
-    I bridge the gap between complex machine learning models and intuitive, high-performance applications.
+    To build software that scales globally. As an AI Engineer and Full Stack Developer, I bridge the gap between complex machine learning models and intuitive, high-performance applications.
   </p>
 </div>
 
@@ -31,19 +27,106 @@
   <img src="assets/divider-dots.svg" width="800" alt="Divider" />
 </div>
 
-<h2 align="center">Core Expertise</h2>
+<h2 align="center">Live Engineering Dashboard</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Generative_AI-0F172A?style=for-the-badge&logo=openai&logoColor=white&color=1E293B" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/Computer_Vision-0F172A?style=for-the-badge&logo=opencv&logoColor=white&color=1E293B" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/Full_Stack_Development-0F172A?style=for-the-badge&logo=vercel&logoColor=white&color=1E293B" alt="Full Stack Web" />
-  <img src="https://img.shields.io/badge/System_Architecture-0F172A?style=for-the-badge&logo=amazonwebservices&logoColor=white&color=1E293B" alt="System Architecture" />
+  <p style="color: #64748B;"><i>Telemetry automatically updated via GitHub Actions. Last Updated: August 07, 2026</i></p>
+  <img src="assets/dashboard.svg" width="1000" alt="Engineering Dashboard" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="assets/divider-gradient.svg" width="800" alt="Divider" />
+</div>
+
+<h2 align="center">Deployment Status</h2>
+
+<div align="center">
+<table width="600" style="border: none;">
+  
+  <tr>
+    <td width="40%"><b>Portfolio</b></td>
+    <td width="30%"><i>React, Framer Motion</i></td>
+    <td width="15%" align="center">
+      
+      <img src="https://img.shields.io/badge/ONLINE-00E676?style=flat-square&logoColor=white" />
+      
+    </td>
+    <td width="15%" align="right">
+      
+      <a href="https://kasakranthikiran.vercel.app">View</a>
+      
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="40%"><b>LakshyaTrack</b></td>
+    <td width="30%"><i>Next.js, TypeScript</i></td>
+    <td width="15%" align="center">
+      
+      <img src="https://img.shields.io/badge/ONLINE-00E676?style=flat-square&logoColor=white" />
+      
+    </td>
+    <td width="15%" align="right">
+      
+      <a href="https://lakshyatrack.vercel.app/">View</a>
+      
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="40%"><b>Emergent</b></td>
+    <td width="30%"><i>IoT, React</i></td>
+    <td width="15%" align="center">
+      
+      <img src="https://img.shields.io/badge/OFFLINE-D32F2F?style=flat-square&logoColor=white" />
+      
+    </td>
+    <td width="15%" align="right">
+      
+      <a href="https://emergent-theta.vercel.app/dashboard">View</a>
+      
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="40%"><b>AI Plant Disease</b></td>
+    <td width="30%"><i>PyTorch, OpenCV</i></td>
+    <td width="15%" align="center">
+      
+      <img src="https://img.shields.io/badge/ONLINE-00E676?style=flat-square&logoColor=white" />
+      
+    </td>
+    <td width="15%" align="right">
+      
+      <a href="https://ai-plant-disease-analysis.vercel.app/">View</a>
+      
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="40%"><b>Speech to Sign</b></td>
+    <td width="30%"><i>TensorFlow, NLP</i></td>
+    <td width="15%" align="center">
+      
+      <img src="https://img.shields.io/badge/COMING_SOON-F57C00?style=flat-square&logoColor=white" />
+      
+    </td>
+    <td width="15%" align="right">
+      
+      -
+      
+    </td>
+  </tr>
+  
+</table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/divider-dots.svg" width="800" alt="Divider" />
 </div>
 
 <h2 align="center">Featured Products</h2>
@@ -57,7 +140,6 @@
   <h3>🎯 LakshyaTrack</h3>
   <p style="color: #94A3B8;"><i>High-performance telemetry and goal-tracking architecture.</i></p>
   <p>
-    <b>Status:</b> 🟢 Production &nbsp;&middot;&nbsp; 
     <b>Stack:</b> <img src="https://img.shields.io/badge/Next.js-1E293B?style=flat-square&logo=next.js&logoColor=60A5FA" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=60A5FA" alt="TypeScript"/>
   </p>
   <a href="https://lakshyatrack.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white&color=2563EB" alt="Live Demo" /></a>
@@ -72,7 +154,6 @@
   <h3>🌱 AI Plant Disease Analysis</h3>
   <p style="color: #94A3B8;"><i>Computer Vision model for real-time plant disease detection.</i></p>
   <p>
-    <b>Status:</b> 🟢 Production &nbsp;&middot;&nbsp; 
     <b>Stack:</b> <img src="https://img.shields.io/badge/PyTorch-1E293B?style=flat-square&logo=pytorch&logoColor=60A5FA" alt="PyTorch"/> <img src="https://img.shields.io/badge/OpenCV-1E293B?style=flat-square&logo=opencv&logoColor=60A5FA" alt="OpenCV"/>
   </p>
   <a href="https://ai-plant-disease-analysis.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white&color=2563EB" alt="Live Demo" /></a>
@@ -87,7 +168,6 @@
   <h3>💼 Professional Portfolio</h3>
   <p style="color: #94A3B8;"><i>Award-winning personal portfolio built with modern WebGL and Framer.</i></p>
   <p>
-    <b>Status:</b> 🟢 Production &nbsp;&middot;&nbsp; 
     <b>Stack:</b> <img src="https://img.shields.io/badge/Framer_Motion-1E293B?style=flat-square&logo=framer&logoColor=60A5FA" alt="Framer Motion"/> <img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=60A5FA" alt="React"/>
   </p>
   <a href="https://github.com/kranthi-06/Portfolio"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -103,25 +183,10 @@
   <h3>🌾 Emergent</h3>
   <p style="color: #94A3B8;"><i>Smart Agriculture IoT & AI integrated crop monitoring system.</i></p>
   <p>
-    <b>Status:</b> 🟢 Production &nbsp;&middot;&nbsp; 
     <b>Stack:</b> <img src="https://img.shields.io/badge/IoT-1E293B?style=flat-square&logo=arduino&logoColor=60A5FA" alt="IoT"/> <img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=60A5FA" alt="React"/>
   </p>
   <a href="https://github.com/kranthi-06/emergent"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://emergent-theta.vercel.app/dashboard"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white&color=2563EB" alt="Live Demo" /></a>
-</div>
-
-<br/><br/>
-
-<!-- Speech to Sign -->
-<div align="center">
-  <img src="https://placehold.co/900x450/0f172a/60a5fa?text=Speech+to+Sign+Language" width="900" alt="Speech to Sign Language Converter" />
-  <br/>
-  <h3>🤟 Speech to Sign Language</h3>
-  <p style="color: #94A3B8;"><i>Deep learning NLP pipeline converting speech to 3D sign language.</i></p>
-  <p>
-    <b>Status:</b> 🟡 Development &nbsp;&middot;&nbsp; 
-    <b>Stack:</b> <img src="https://img.shields.io/badge/TensorFlow-1E293B?style=flat-square&logo=tensorflow&logoColor=60A5FA" alt="TensorFlow"/> <img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=60A5FA" alt="Python"/>
-  </p>
 </div>
 
 <br/>
@@ -130,7 +195,7 @@
   <img src="assets/divider-dots.svg" width="800" alt="Divider" />
 </div>
 
-<h2 align="center">Technical Stack</h2>
+<h2 align="center">Technology Architecture</h2>
 
 <br/>
 
@@ -153,18 +218,11 @@
 </div>
 
 <div align="center">
-  <p><b>Frontend & Design</b></p>
+  <p><b>Frontend & Infrastructure</b></p>
   <img src="https://img.shields.io/badge/Next.js-1E293B?style=for-the-badge&logo=next.js&logoColor=60A5FA" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-1E293B?style=for-the-badge&logo=react&logoColor=60A5FA" alt="React" />
-  <img src="https://img.shields.io/badge/TailwindCSS-1E293B?style=for-the-badge&logo=tailwindcss&logoColor=60A5FA" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Framer_Motion-1E293B?style=for-the-badge&logo=framer&logoColor=60A5FA" alt="Framer Motion" />
-</div>
-
-<div align="center">
-  <p><b>Backend & Infrastructure</b></p>
   <img src="https://img.shields.io/badge/Node.js-1E293B?style=for-the-badge&logo=nodedotjs&logoColor=2563EB" alt="Node.js" />
   <img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=for-the-badge&logo=postgresql&logoColor=2563EB" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-1E293B?style=for-the-badge&logo=mongodb&logoColor=2563EB" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Docker-1E293B?style=for-the-badge&logo=docker&logoColor=2563EB" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-1E293B?style=for-the-badge&logo=amazonaws&logoColor=2563EB" alt="AWS" />
 </div>
@@ -175,80 +233,32 @@
   <img src="assets/divider-gradient.svg" width="800" alt="Divider" />
 </div>
 
-<h2 align="center">Engineering Philosophy</h2>
-
-<div align="center">
-  <p style="color: #94A3B8; max-width: 600px; margin: 0 auto; line-height: 1.6;">
-    I believe in writing code that is not only functional but architecturally sound and scalable. <br/>
-    My approach emphasizes minimal complexity, robust testing, and exceptional developer experience. <br/>
-    I strive to build software that makes a genuine impact and pushes the boundaries of modern technology.
-  </p>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="assets/divider-dots.svg" width="800" alt="Divider" />
-</div>
-
-<h2 align="center">GitHub Analytics</h2>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kranthi-06&show_icons=true&theme=transparent&title_color=60A5FA&text_color=94A3B8&icon_color=2563EB&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kranthi-06&layout=compact&theme=transparent&title_color=60A5FA&text_color=94A3B8&icon_color=2563EB&hide_border=true&bg_color=00000000" alt="Top Languages" />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kranthi-06&theme=transparent&title_color=60A5FA&text_color=94A3B8&icon_color=2563EB&hide_border=true&background=00000000" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="assets/divider-gradient.svg" width="800" alt="Divider" />
-</div>
-
-<h2 align="center">Certifications & Achievements</h2>
-
-<div align="center">
-  <p style="color: #94A3B8;">
-    <b>🏆 Open Source Contributor</b> &nbsp;&middot;&nbsp; <b>🚀 High-Performance Systems</b> &nbsp;&middot;&nbsp; <b>⭐ AI Research Enthusiast</b>
-  </p>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="assets/divider-dots.svg" width="800" alt="Divider" />
-</div>
-
 <h2 align="center">Coding Profiles</h2>
 
 <div align="center">
-  <a href="https://leetcode.com/u/kasakranthi06/">
-    <img src="https://img.shields.io/badge/LeetCode-1E293B?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/kasakk2006">
-    <img src="https://img.shields.io/badge/HackerRank-1E293B?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank" />
-  </a>
-  <a href="https://www.kaggle.com/kasakranthi">
-    <img src="https://img.shields.io/badge/Kaggle-1E293B?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="assets/divider-gradient.svg" width="800" alt="Divider" />
-</div>
-
-<h2 align="center">Current Focus</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/System_Design-Exploring-0F172A?style=for-the-badge&color=2563EB" alt="System Design" />
-  <img src="https://img.shields.io/badge/Rust-Learning-0F172A?style=for-the-badge&color=1E293B" alt="Rust" />
-  <img src="https://img.shields.io/badge/WebAssembly-Researching-0F172A?style=for-the-badge&color=1E293B" alt="WebAssembly" />
+  <table width="100%" style="border: none;">
+    <tr>
+      <td width="33%" align="center">
+        <b>LeetCode</b><br/><br/>
+        <img src="https://img.shields.io/badge/Solved-0-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /><br/><br/>
+        <i>Rank: 0</i>
+      </td>
+      <td width="33%" align="center">
+        <b>HackerRank</b><br/><br/>
+        <a href="https://www.hackerrank.com/profile/kasakk2006">
+          <img src="https://img.shields.io/badge/Profile-Active-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+        </a><br/><br/>
+        <i>Top Rated</i>
+      </td>
+      <td width="33%" align="center">
+        <b>Kaggle</b><br/><br/>
+        <a href="https://www.kaggle.com/kasakranthi">
+          <img src="https://img.shields.io/badge/Profile-Active-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+        </a><br/><br/>
+        <i>Datasets & Notebooks</i>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -283,9 +293,6 @@
   </a>
   <a href="https://kasakranthikiran.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-1E293B?style=for-the-badge&logo=globe&logoColor=60A5FA" alt="Portfolio" />
-  </a>
-  <a href="https://drive.google.com/file/d/1MscMLo312fe73d1Pxvwp2od7wpiIYxwT/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-1E293B?style=for-the-badge&logo=read-it-later&logoColor=white" alt="Resume" />
   </a>
 </div>
 
