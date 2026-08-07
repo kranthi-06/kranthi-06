@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero.svg" alt="Kranthi - AI & Software Architect" width="100%" />
+  <img src="assets/hero.svg" alt="Kasa Kranthi Kiran - AI Engineer & Full Stack Developer" width="100%" />
 </div>
 
 <br/>
@@ -21,7 +21,7 @@
 <div align="center">
   <h2>Engineering Excellence &middot; Artificial Intelligence &middot; System Architecture</h2>
   <p align="center" style="color: #94A3B8;">
-    I am a Senior Software Engineer specializing in artificial intelligence and modern web architectures. <br />
+    I am an AI Engineer and Full Stack Developer specializing in artificial intelligence and modern web architectures. <br />
     My focus is on building scalable, production-grade AI solutions and premium user experiences. <br />
     I bridge the gap between complex machine learning models and intuitive, high-performance applications.
   </p>
@@ -45,7 +45,7 @@
   <tr>
     <td width="50%" align="center">
       <h3>🎯 LakshyaTrack</h3>
-      <a href="https://github.com/kranthi-06/LakshyaTrack">
+      <a href="https://lakshyatrack.vercel.app/">
         <img src="https://placehold.co/600x350/0f172a/60a5fa?text=LakshyaTrack" alt="LakshyaTrack" width="100%" />
       </a>
       <p>High-performance telemetry and goal-tracking architecture.</p>
@@ -53,56 +53,26 @@
         <img src="https://img.shields.io/badge/Next.js-1E293B?style=flat-square&logo=next.js&logoColor=60A5FA" />
         <img src="https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=60A5FA" />
       </p>
-      <a href="https://github.com/kranthi-06/LakshyaTrack"><img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Live-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://lakshyatrack.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="50%" align="center">
-      <h3>🌱 AI Leaf Disease Analysis</h3>
-      <a href="https://github.com/kranthi-06/AI-Leaf-Disease">
-        <img src="https://placehold.co/600x350/0f172a/60a5fa?text=AI+Leaf+Analysis" alt="AI Leaf Disease" width="100%" />
+      <h3>🌱 AI Plant Disease Analysis</h3>
+      <a href="https://ai-plant-disease-analysis.vercel.app/">
+        <img src="https://placehold.co/600x350/0f172a/60a5fa?text=AI+Plant+Disease" alt="AI Plant Disease Analysis" width="100%" />
       </a>
       <p>Computer Vision model for real-time plant disease detection.</p>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-1E293B?style=flat-square&logo=pytorch&logoColor=60A5FA" />
         <img src="https://img.shields.io/badge/OpenCV-1E293B?style=flat-square&logo=opencv&logoColor=60A5FA" />
       </p>
-      <a href="https://github.com/kranthi-06/AI-Leaf-Disease"><img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Live-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🤟 Speech to Sign Language</h3>
-      <a href="https://github.com/kranthi-06/Speech-to-Sign">
-        <img src="https://placehold.co/600x350/0f172a/60a5fa?text=Speech+to+Sign" alt="Speech to Sign" width="100%" />
-      </a>
-      <p>Deep learning NLP pipeline converting speech to 3D sign language.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TensorFlow-1E293B?style=flat-square&logo=tensorflow&logoColor=60A5FA" />
-        <img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=60A5FA" />
-      </p>
-      <a href="https://github.com/kranthi-06/Speech-to-Sign"><img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Live-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-    </td>
-    <td width="50%" align="center">
-      <h3>🌾 Smart Agriculture</h3>
-      <a href="https://github.com/kranthi-06/Smart-Agriculture">
-        <img src="https://placehold.co/600x350/0f172a/60a5fa?text=Smart+Agriculture" alt="Smart Agriculture" width="100%" />
-      </a>
-      <p>IoT & AI integrated crop monitoring and irrigation system.</p>
-      <p>
-        <img src="https://img.shields.io/badge/IoT-1E293B?style=flat-square&logo=arduino&logoColor=60A5FA" />
-        <img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=60A5FA" />
-      </p>
-      <a href="https://github.com/kranthi-06/Smart-Agriculture"><img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Live-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://ai-plant-disease-analysis.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <h3>💼 Professional Portfolio</h3>
-      <a href="https://github.com/kranthi-06/Portfolio">
-        <img src="https://placehold.co/600x350/0f172a/60a5fa?text=Portfolio" alt="Portfolio" width="100%" />
+      <a href="https://kasakranthikiran.vercel.app">
+        <img src="https://placehold.co/600x350/0f172a/60a5fa?text=Portfolio" alt="Portfolio Website" width="100%" />
       </a>
       <p>Award-winning personal portfolio built with modern WebGL and Framer.</p>
       <p>
@@ -110,20 +80,35 @@
         <img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=60A5FA" />
       </p>
       <a href="https://github.com/kranthi-06/Portfolio"><img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Live-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://kasakranthikiran.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="50%" align="center">
-      <h3>📄 AI Resume Builder</h3>
-      <a href="https://github.com/kranthi-06/Resume-Builder">
-        <img src="https://placehold.co/600x350/0f172a/60a5fa?text=AI+Resume+Builder" alt="Resume Builder" width="100%" />
+      <h3>🌾 Emergent</h3>
+      <a href="https://emergent-theta.vercel.app/dashboard">
+        <img src="https://placehold.co/600x350/0f172a/60a5fa?text=Emergent" alt="Emergent Smart Agriculture" width="100%" />
       </a>
-      <p>Generative AI powered resume generator optimizing for ATS systems.</p>
+      <p>Smart Agriculture IoT & AI integrated crop monitoring system.</p>
       <p>
-        <img src="https://img.shields.io/badge/OpenAI-1E293B?style=flat-square&logo=openai&logoColor=60A5FA" />
-        <img src="https://img.shields.io/badge/Tailwind-1E293B?style=flat-square&logo=tailwindcss&logoColor=60A5FA" />
+        <img src="https://img.shields.io/badge/IoT-1E293B?style=flat-square&logo=arduino&logoColor=60A5FA" />
+        <img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=60A5FA" />
       </p>
-      <a href="https://github.com/kranthi-06/Resume-Builder"><img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Live-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://github.com/kranthi-06/emergent"><img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://emergent-theta.vercel.app/dashboard"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🤟 Speech to Sign Language</h3>
+      <img src="https://placehold.co/600x350/0f172a/60a5fa?text=Speech+to+Sign" alt="Speech to Sign Language Converter" width="100%" />
+      <p>Deep learning NLP pipeline converting speech to 3D sign language.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TensorFlow-1E293B?style=flat-square&logo=tensorflow&logoColor=60A5FA" />
+        <img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=60A5FA" />
+      </p>
+      <!-- Repository unverified, no live demo available yet -->
+    </td>
+    <td width="50%" align="center">
+      <!-- Balanced Grid -->
     </td>
   </tr>
 </table>
@@ -213,6 +198,26 @@
   <img src="assets/divider.svg" width="800" />
 </div>
 
+<h2 align="center">Coding Profiles</h2>
+
+<div align="center">
+  <a href="https://leetcode.com/u/kasakranthi06/">
+    <img src="https://img.shields.io/badge/LeetCode-1E293B?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/kasakk2006">
+    <img src="https://img.shields.io/badge/HackerRank-1E293B?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank" />
+  </a>
+  <a href="https://www.kaggle.com/kasakranthi">
+    <img src="https://img.shields.io/badge/Kaggle-1E293B?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/divider.svg" width="800" />
+</div>
+
 <h2 align="center">Achievements & Open Source</h2>
 
 <div align="center">
@@ -262,16 +267,16 @@
   <a href="https://github.com/kranthi-06">
     <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/kranthi-06">
+  <a href="https://www.linkedin.com/in/kasakranthikiran06/">
     <img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn" />
   </a>
-  <a href="mailto:contact@example.com">
+  <a href="mailto:kasakk2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
-  <a href="https://kranthi.com">
+  <a href="https://kasakranthikiran.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-1E293B?style=for-the-badge&logo=globe&logoColor=60A5FA" alt="Portfolio" />
   </a>
-  <a href="#">
+  <a href="https://drive.google.com/file/d/1MscMLo312fe73d1Pxvwp2od7wpiIYxwT/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-1E293B?style=for-the-badge&logo=read-it-later&logoColor=white" alt="Resume" />
   </a>
 </div>
@@ -284,6 +289,6 @@
   <br/>
   <p style="color: #64748B;">
     <i>Architected with precision. Designed with elegance. Built for performance.</i><br/>
-    <b>© 2024 Kranthi. All rights reserved.</b>
+    <b>© 2024 Kasa Kranthi Kiran. All rights reserved.</b>
   </p>
 </div>

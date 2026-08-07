@@ -54,8 +54,8 @@
 
   <g style="animation: float 8s ease-in-out infinite;">
     <rect x="300" y="80" width="600" height="240" rx="20" class="glass"/>
-    <text x="600" y="170" text-anchor="middle" class="name">KRANTHI</text>
-    <text x="600" y="215" text-anchor="middle" class="role">AI &amp; Software Architect</text>
+    <text x="600" y="170" text-anchor="middle" class="name" style="font-size: 52px;">KASA KRANTHI KIRAN</text>
+    <text x="600" y="215" text-anchor="middle" class="role">AI Engineer &amp; Full Stack Developer</text>
     <rect x="580" y="240" width="40" height="2" fill="#3B82F6" rx="1"/>
     <text x="600" y="280" text-anchor="middle" class="sub">&lt;sys.stdout.write("Building the future") /&gt;</text>
   </g>
