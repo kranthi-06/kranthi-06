@@ -55,22 +55,21 @@
 <h2 align="center">Deployment Status</h2>
 
 <div align="center">
-  {% for dep in deployments %}
   <p>
-    <b>{{ dep.name }}</b> &nbsp;&middot;&nbsp; 
-    {% if dep.status == "ONLINE" %}
-    🟢 Online
-    {% elif dep.status == "COMING SOON" %}
-    🟡 Coming Soon
-    {% else %}
-    🔴 Offline
-    {% endif %}
-    &nbsp;&middot;&nbsp; <i>{{ dep.tech }}</i> 
-    {% if dep.url %}
-    &nbsp;&middot;&nbsp; <a href="{{ dep.url }}">Open</a>
-    {% endif %}
+    <b>Portfolio</b> &nbsp;&middot;&nbsp; 🟢 Online &nbsp;&middot;&nbsp; <i>React, Framer Motion</i> &nbsp;&middot;&nbsp; <a href="https://kasakranthikiran.vercel.app">Open</a>
   </p>
-  {% endfor %}
+  <p>
+    <b>LakshyaTrack</b> &nbsp;&middot;&nbsp; 🟢 Online &nbsp;&middot;&nbsp; <i>Next.js, TypeScript</i> &nbsp;&middot;&nbsp; <a href="https://lakshyatrack.vercel.app/">Open</a>
+  </p>
+  <p>
+    <b>Emergent</b> &nbsp;&middot;&nbsp; 🟢 Online &nbsp;&middot;&nbsp; <i>IoT, React</i> &nbsp;&middot;&nbsp; <a href="https://emergent-theta.vercel.app/dashboard">Open</a>
+  </p>
+  <p>
+    <b>AI Plant Disease</b> &nbsp;&middot;&nbsp; 🟢 Online &nbsp;&middot;&nbsp; <i>PyTorch, OpenCV</i> &nbsp;&middot;&nbsp; <a href="https://ai-plant-disease-analysis.vercel.app/">Open</a>
+  </p>
+  <p>
+    <b>Speech to Sign</b> &nbsp;&middot;&nbsp; 🟡 Coming Soon &nbsp;&middot;&nbsp; <i>TensorFlow, NLP</i> 
+  </p>
 </div>
 
 <br/>
@@ -87,80 +86,104 @@
 
 <!-- LakshyaTrack -->
 <div align="center">
-  <a href="https://lakshyatrack.vercel.app/">
-    <img src="assets/project-lakshya.svg" width="900" alt="LakshyaTrack Preview" />
-  </a>
+  <picture>
+    <img src="assets/screenshots/Lakshyatrack.png" width="80%" alt="LakshyaTrack Preview" style="border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);" />
+  </picture>
   <br/><br/>
   <h3>🎯 LakshyaTrack</h3>
-  <p style="color: #94A3B8;"><i>High-performance telemetry and goal-tracking architecture.</i></p>
+  <p style="color: #94A3B8; max-width: 600px; margin: 0 auto;"><i>High-performance telemetry and goal-tracking architecture.</i></p>
+  <br/>
   <p>
-    <b>Stack:</b> <img src="https://img.shields.io/badge/Next.js-1E293B?style=flat-square&logo=next.js&logoColor=60A5FA" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=60A5FA" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/Next.js-1E293B?style=flat-square&logo=next.js&logoColor=60A5FA" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=60A5FA" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/Production-0F172A?style=flat-square&logoColor=white" alt="Production"/>
   </p>
-  <a href="https://lakshyatrack.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white&color=2563EB" alt="Live Demo" /></a>
+  <p>
+    <a href="https://github.com/kranthi-06/LakshyaTrack"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://lakshyatrack.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white&color=2563EB" alt="Live Demo" /></a>
+  </p>
 </div>
 
-<br/><br/>
+<br/><br/><br/>
 
 <!-- AI Plant Disease -->
 <div align="center">
-  <a href="https://ai-plant-disease-analysis.vercel.app/">
-    <img src="assets/project-plant.svg" width="900" alt="AI Plant Disease Analysis" />
-  </a>
+  <picture>
+    <img src="assets/screenshots/AI%20leaf%20disease%20analysis.png" width="80%" alt="AI Plant Disease Analysis" style="border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);" />
+  </picture>
   <br/><br/>
   <h3>🌱 AI Plant Disease Analysis</h3>
-  <p style="color: #94A3B8;"><i>Computer Vision model for real-time plant disease detection.</i></p>
+  <p style="color: #94A3B8; max-width: 600px; margin: 0 auto;"><i>Computer Vision model for real-time plant disease detection.</i></p>
+  <br/>
   <p>
-    <b>Stack:</b> <img src="https://img.shields.io/badge/PyTorch-1E293B?style=flat-square&logo=pytorch&logoColor=60A5FA" alt="PyTorch"/> <img src="https://img.shields.io/badge/OpenCV-1E293B?style=flat-square&logo=opencv&logoColor=60A5FA" alt="OpenCV"/>
+    <img src="https://img.shields.io/badge/PyTorch-1E293B?style=flat-square&logo=pytorch&logoColor=60A5FA" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/OpenCV-1E293B?style=flat-square&logo=opencv&logoColor=60A5FA" alt="OpenCV"/>
+    <img src="https://img.shields.io/badge/Production-0F172A?style=flat-square&logoColor=white" alt="Production"/>
   </p>
-  <a href="https://ai-plant-disease-analysis.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white&color=2563EB" alt="Live Demo" /></a>
+  <p>
+    <a href="https://github.com/kranthi-06/AI-Plant-Disease-Analysis"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://ai-plant-disease-analysis.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white&color=2563EB" alt="Live Demo" /></a>
+  </p>
 </div>
 
-<br/><br/>
+<br/><br/><br/>
 
 <!-- Portfolio -->
 <div align="center">
-  <a href="https://kasakranthikiran.vercel.app">
-    <img src="assets/project-portfolio.svg" width="900" alt="Portfolio Website" />
-  </a>
+  <picture>
+    <img src="assets/screenshots/portfolio.png" width="80%" alt="Portfolio Website" style="border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);" />
+  </picture>
   <br/><br/>
   <h3>💼 Professional Portfolio</h3>
-  <p style="color: #94A3B8;"><i>Award-winning personal portfolio built with modern WebGL and Framer.</i></p>
+  <p style="color: #94A3B8; max-width: 600px; margin: 0 auto;"><i>Award-winning personal portfolio built with modern WebGL and Framer.</i></p>
+  <br/>
   <p>
-    <b>Stack:</b> <img src="https://img.shields.io/badge/Framer_Motion-1E293B?style=flat-square&logo=framer&logoColor=60A5FA" alt="Framer Motion"/> <img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=60A5FA" alt="React"/>
+    <img src="https://img.shields.io/badge/Framer_Motion-1E293B?style=flat-square&logo=framer&logoColor=60A5FA" alt="Framer Motion"/>
+    <img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=60A5FA" alt="React"/>
+    <img src="https://img.shields.io/badge/Production-0F172A?style=flat-square&logoColor=white" alt="Production"/>
   </p>
-  <a href="https://github.com/kranthi-06/Portfolio"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://kasakranthikiran.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white&color=2563EB" alt="Live Demo" /></a>
+  <p>
+    <a href="https://github.com/kranthi-06/Portfolio"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://kasakranthikiran.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white&color=2563EB" alt="Live Demo" /></a>
+  </p>
 </div>
 
-<br/><br/>
+<br/><br/><br/>
 
 <!-- Emergent -->
 <div align="center">
-  <a href="https://emergent-theta.vercel.app/dashboard">
-    <img src="assets/project-emergent.svg" width="900" alt="Emergent Smart Agriculture" />
-  </a>
+  <picture>
+    <img src="assets/screenshots/Energent.png" width="80%" alt="Emergent Smart Agriculture" style="border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);" />
+  </picture>
   <br/><br/>
   <h3>🌾 Emergent</h3>
-  <p style="color: #94A3B8;"><i>Smart Agriculture IoT & AI integrated crop monitoring system.</i></p>
+  <p style="color: #94A3B8; max-width: 600px; margin: 0 auto;"><i>Smart Agriculture IoT & AI integrated crop monitoring system.</i></p>
+  <br/>
   <p>
-    <b>Stack:</b> <img src="https://img.shields.io/badge/IoT-1E293B?style=flat-square&logo=arduino&logoColor=60A5FA" alt="IoT"/> <img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=60A5FA" alt="React"/>
+    <img src="https://img.shields.io/badge/IoT-1E293B?style=flat-square&logo=arduino&logoColor=60A5FA" alt="IoT"/>
+    <img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=60A5FA" alt="React"/>
+    <img src="https://img.shields.io/badge/Production-0F172A?style=flat-square&logoColor=white" alt="Production"/>
   </p>
-  <a href="https://github.com/kranthi-06/emergent"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://emergent-theta.vercel.app/dashboard"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white&color=2563EB" alt="Live Demo" /></a>
+  <p>
+    <a href="https://github.com/kranthi-06/emergent"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://emergent-theta.vercel.app/dashboard"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white&color=2563EB" alt="Live Demo" /></a>
+  </p>
 </div>
 
-<br/><br/>
+<br/><br/><br/>
 
 <!-- Speech to Sign -->
 <div align="center">
-  <picture>
-    <img src="assets/project-speech.svg" width="900" alt="Speech to Sign Language Converter" />
-  </picture>
-  <br/><br/>
   <h3>🤟 Speech to Sign Language</h3>
-  <p style="color: #94A3B8;"><i>Deep learning NLP pipeline converting speech to 3D sign language.</i></p>
+  <p style="color: #94A3B8; max-width: 600px; margin: 0 auto;"><i>Deep learning NLP pipeline converting speech to 3D sign language.</i></p>
+  <br/>
   <p>
-    <b>Stack:</b> <img src="https://img.shields.io/badge/TensorFlow-1E293B?style=flat-square&logo=tensorflow&logoColor=60A5FA" alt="TensorFlow"/> <img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=60A5FA" alt="Python"/>
+    <img src="https://img.shields.io/badge/TensorFlow-1E293B?style=flat-square&logo=tensorflow&logoColor=60A5FA" alt="TensorFlow"/>
+    <img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=60A5FA" alt="Python"/>
+    <img src="https://img.shields.io/badge/Research-0F172A?style=flat-square&logoColor=white" alt="Research"/>
+  </p>
+  <p>
+    <a href="https://github.com/kranthi-06/Speech-to-Sign"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 </div>
 
@@ -172,36 +195,42 @@
   </picture>
 </div>
 
-<h2 align="center">Technology Architecture</h2>
+<h2 align="center">Technology Stack</h2>
 
 <br/>
 
 <div align="center">
-  <p><b>Core Languages</b></p>
-  <picture><img src="https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=60A5FA" alt="Python" /></picture>
-  <picture><img src="https://img.shields.io/badge/TypeScript-1E293B?style=for-the-badge&logo=typescript&logoColor=60A5FA" alt="TypeScript" /></picture>
-  <picture><img src="https://img.shields.io/badge/JavaScript-1E293B?style=for-the-badge&logo=javascript&logoColor=60A5FA" alt="JavaScript" /></picture>
-  <picture><img src="https://img.shields.io/badge/C++-1E293B?style=for-the-badge&logo=c%2B%2B&logoColor=60A5FA" alt="C++" /></picture>
-  <picture><img src="https://img.shields.io/badge/Go-1E293B?style=for-the-badge&logo=go&logoColor=60A5FA" alt="Go" /></picture>
+  <p><b>Languages</b></p>
+  <picture><img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=60A5FA" alt="Python" /></picture>
+  <picture><img src="https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=60A5FA" alt="TypeScript" /></picture>
+  <picture><img src="https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=60A5FA" alt="JavaScript" /></picture>
+  <picture><img src="https://img.shields.io/badge/C++-1E293B?style=flat-square&logo=c%2B%2B&logoColor=60A5FA" alt="C++" /></picture>
+  <picture><img src="https://img.shields.io/badge/Go-1E293B?style=flat-square&logo=go&logoColor=60A5FA" alt="Go" /></picture>
 </div>
 
 <div align="center">
-  <p><b>AI & Machine Learning</b></p>
-  <picture><img src="https://img.shields.io/badge/PyTorch-1E293B?style=for-the-badge&logo=pytorch&logoColor=2563EB" alt="PyTorch" /></picture>
-  <picture><img src="https://img.shields.io/badge/TensorFlow-1E293B?style=for-the-badge&logo=tensorflow&logoColor=2563EB" alt="TensorFlow" /></picture>
-  <picture><img src="https://img.shields.io/badge/OpenAI-1E293B?style=for-the-badge&logo=openai&logoColor=2563EB" alt="OpenAI" /></picture>
-  <picture><img src="https://img.shields.io/badge/HuggingFace-1E293B?style=for-the-badge&logo=huggingface&logoColor=2563EB" alt="HuggingFace" /></picture>
-  <picture><img src="https://img.shields.io/badge/OpenCV-1E293B?style=for-the-badge&logo=opencv&logoColor=2563EB" alt="OpenCV" /></picture>
+  <p><b>AI & ML</b></p>
+  <picture><img src="https://img.shields.io/badge/PyTorch-1E293B?style=flat-square&logo=pytorch&logoColor=2563EB" alt="PyTorch" /></picture>
+  <picture><img src="https://img.shields.io/badge/TensorFlow-1E293B?style=flat-square&logo=tensorflow&logoColor=2563EB" alt="TensorFlow" /></picture>
+  <picture><img src="https://img.shields.io/badge/OpenAI-1E293B?style=flat-square&logo=openai&logoColor=2563EB" alt="OpenAI" /></picture>
+  <picture><img src="https://img.shields.io/badge/HuggingFace-1E293B?style=flat-square&logo=huggingface&logoColor=2563EB" alt="HuggingFace" /></picture>
+  <picture><img src="https://img.shields.io/badge/OpenCV-1E293B?style=flat-square&logo=opencv&logoColor=2563EB" alt="OpenCV" /></picture>
 </div>
 
 <div align="center">
-  <p><b>Frontend & Infrastructure</b></p>
-  <picture><img src="https://img.shields.io/badge/Next.js-1E293B?style=for-the-badge&logo=next.js&logoColor=60A5FA" alt="Next.js" /></picture>
-  <picture><img src="https://img.shields.io/badge/React-1E293B?style=for-the-badge&logo=react&logoColor=60A5FA" alt="React" /></picture>
-  <picture><img src="https://img.shields.io/badge/Node.js-1E293B?style=for-the-badge&logo=nodedotjs&logoColor=2563EB" alt="Node.js" /></picture>
-  <picture><img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=for-the-badge&logo=postgresql&logoColor=2563EB" alt="PostgreSQL" /></picture>
-  <picture><img src="https://img.shields.io/badge/Docker-1E293B?style=for-the-badge&logo=docker&logoColor=2563EB" alt="Docker" /></picture>
-  <picture><img src="https://img.shields.io/badge/AWS-1E293B?style=for-the-badge&logo=amazonaws&logoColor=2563EB" alt="AWS" /></picture>
+  <p><b>Frontend</b></p>
+  <picture><img src="https://img.shields.io/badge/Next.js-1E293B?style=flat-square&logo=next.js&logoColor=60A5FA" alt="Next.js" /></picture>
+  <picture><img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=60A5FA" alt="React" /></picture>
+  <picture><img src="https://img.shields.io/badge/TailwindCSS-1E293B?style=flat-square&logo=tailwindcss&logoColor=60A5FA" alt="TailwindCSS" /></picture>
+  <picture><img src="https://img.shields.io/badge/Framer_Motion-1E293B?style=flat-square&logo=framer&logoColor=60A5FA" alt="Framer Motion" /></picture>
+</div>
+
+<div align="center">
+  <p><b>Backend & Cloud</b></p>
+  <picture><img src="https://img.shields.io/badge/Node.js-1E293B?style=flat-square&logo=nodedotjs&logoColor=2563EB" alt="Node.js" /></picture>
+  <picture><img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=2563EB" alt="PostgreSQL" /></picture>
+  <picture><img src="https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=2563EB" alt="Docker" /></picture>
+  <picture><img src="https://img.shields.io/badge/AWS-1E293B?style=flat-square&logo=amazonaws&logoColor=2563EB" alt="AWS" /></picture>
 </div>
 
 <br/>
@@ -216,11 +245,13 @@
 
 <div align="center">
   <p>
-    <b>LeetCode:</b> <picture><img src="https://img.shields.io/badge/Solved-{{ lc.solved }}-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></picture> <i>(Rank: {{ lc.ranking }})</i>
-    <br/><br/>
-    <b>HackerRank:</b> <a href="https://www.hackerrank.com/profile/kasakk2006"><img src="https://img.shields.io/badge/Profile-Active-00EA64?style=flat-square&logo=hackerrank&logoColor=white" /></a> <i>(Top Rated)</i>
-    <br/><br/>
-    <b>Kaggle:</b> <a href="https://www.kaggle.com/kasakranthi"><img src="https://img.shields.io/badge/Profile-Active-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a> <i>(Datasets & Notebooks)</i>
+    <b>LeetCode:</b> <picture><img src="https://img.shields.io/badge/Solved-{{ lc.solved }}-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></picture> &nbsp;&middot;&nbsp; <i>Rank: {{ lc.ranking }}</i> &nbsp;&middot;&nbsp; <a href="https://leetcode.com/u/kasakranthi06/">View Profile</a>
+  </p>
+  <p>
+    <b>HackerRank:</b> <picture><img src="https://img.shields.io/badge/Active-00EA64?style=flat-square&logo=hackerrank&logoColor=white" /></picture> &nbsp;&middot;&nbsp; <i>Top Rated</i> &nbsp;&middot;&nbsp; <a href="https://www.hackerrank.com/profile/kasakk2006">View Profile</a>
+  </p>
+  <p>
+    <b>Kaggle:</b> <picture><img src="https://img.shields.io/badge/Active-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></picture> &nbsp;&middot;&nbsp; <i>Datasets & Notebooks</i> &nbsp;&middot;&nbsp; <a href="https://www.kaggle.com/kasakranthi">View Profile</a>
   </p>
 </div>
 

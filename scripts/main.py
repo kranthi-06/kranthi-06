@@ -23,7 +23,7 @@ def main():
         {"name": "AI Plant Disease", "url": "https://ai-plant-disease-analysis.vercel.app/", "tech": "PyTorch, OpenCV"},
         {"name": "Speech to Sign", "url": "", "tech": "TensorFlow, NLP"}
     ]
-    deployment_stats = verify_deployments(deployments)
+    deployment_stats, online_count = verify_deployments(deployments)
     
     current_date = datetime.utcnow().strftime("%B %d, %Y")
     
@@ -31,6 +31,8 @@ def main():
         "gh": gh_stats,
         "lc": lc_stats,
         "deployments": deployment_stats,
+        "online_deployments": online_count,
+        "current_focus": "System Design & Modern Web",
         "date": current_date
     }
     

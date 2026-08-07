@@ -1,7 +1,7 @@
 import os
 import requests
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 
 def fetch_github_stats(username, token=None):
@@ -14,6 +14,7 @@ def fetch_github_stats(username, token=None):
     
     created_at = datetime.strptime(user_data.get('created_at', '2020-01-01T00:00:00Z'), "%Y-%m-%dT%H:%M:%SZ")
     days_on_github = (datetime.utcnow() - created_at).days
+    github_since = created_at.strftime("%Y")
 
     repos_url = user_data.get('repos_url')
     repos_resp = requests.get(repos_url, headers=headers)
@@ -43,18 +44,27 @@ def fetch_github_stats(username, token=None):
     
     latest_commit = "No recent commits"
     latest_repo = "Unknown"
+    commits_this_week = 0
+    one_week_ago = datetime.utcnow() - timedelta(days=7)
+    
     for event in events:
+        event_time = datetime.strptime(event.get('created_at', '2020-01-01T00:00:00Z'), "%Y-%m-%dT%H:%M:%SZ")
         if event.get('type') == 'PushEvent':
-            repo_name = event.get('repo', {}).get('name', 'Unknown')
             commits = event.get('payload', {}).get('commits', [])
-            if commits:
-                latest_commit = commits[0].get('message', '').split('\n')[0]
-            latest_repo = repo_name
-            break
+            if event_time > one_week_ago:
+                commits_this_week += len(commits)
+                
+            if latest_repo == "Unknown":
+                repo_name = event.get('repo', {}).get('name', 'Unknown')
+                if commits:
+                    latest_commit = commits[0].get('message', '').split('\n')[0]
+                latest_repo = repo_name
 
     return {
+        "github_since": github_since,
         "days_on_github": days_on_github,
         "total_commits": total_commits,
+        "commits_this_week": commits_this_week,
         "public_repos": public_repos,
         "followers": followers,
         "stars": stars,
@@ -62,11 +72,12 @@ def fetch_github_stats(username, token=None):
         "total_prs": total_prs,
         "total_issues": total_issues,
         "latest_repo": latest_repo,
-        "latest_commit": latest_commit[:50] + "..." if len(latest_commit) > 50 else latest_commit
+        "latest_commit": latest_commit[:40] + "..." if len(latest_commit) > 40 else latest_commit
     }
 
 def verify_deployments(deployments):
     results = []
+    online_count = 0
     for dep in deployments:
         status = "OFFLINE"
         if dep['url']:
@@ -74,6 +85,7 @@ def verify_deployments(deployments):
                 resp = requests.get(dep['url'], timeout=5)
                 if resp.status_code < 400:
                     status = "ONLINE"
+                    online_count += 1
             except:
                 pass
         else:
@@ -85,7 +97,7 @@ def verify_deployments(deployments):
             "status": status,
             "tech": dep['tech']
         })
-    return results
+    return results, online_count
 
 def fetch_leetcode_stats(username):
     try:
