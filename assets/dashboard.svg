@@ -105,7 +105,7 @@
     <rect width="350" height="110" class="db-card"/>
     <rect width="350" height="110" class="db-card-border"/>
     <text x="20" y="32" class="db-label">Current Focus</text>
-    <text x="20" y="72" class="db-text" style="font-size: 18px; font-weight: 600; fill: #F8FAFC;">Agentic AI & Production Systems</text>
+    <text x="20" y="72" class="db-text" style="font-size: 18px; font-weight: 600; fill: #F8FAFC;">Agentic AI &amp; Production Systems</text>
     <circle cx="330" cy="30" r="4" class="db-dot-blue" opacity="0.5">
       <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3s" repeatCount="indefinite"/>
     </circle>
