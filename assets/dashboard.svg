@@ -1,57 +1,139 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" width="100%" height="100%">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="db-bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#020617"/>
       <stop offset="100%" stop-color="#0F172A"/>
     </linearGradient>
+    <linearGradient id="db-accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+    </linearGradient>
     <style>
-      .title { font-family: -apple-system, BlinkMacSystemFont, 'Inter', sans-serif; font-weight: 700; font-size: 24px; fill: #FFFFFF; }
-      .label { font-family: -apple-system, BlinkMacSystemFont, 'Inter', sans-serif; font-weight: 500; font-size: 14px; fill: #64748B; text-transform: uppercase; letter-spacing: 1px;}
-      .value { font-family: 'SF Mono', 'Fira Code', monospace; font-weight: 600; font-size: 32px; fill: #60A5FA; }
-      .card { fill: rgba(30, 41, 59, 0.4); stroke: rgba(255, 255, 255, 0.05); stroke-width: 1; rx: 12; }
+      .db-title { font-family: -apple-system, BlinkMacSystemFont, 'Inter', sans-serif; font-weight: 700; font-size: 18px; fill: #F8FAFC; letter-spacing: -0.5px; }
+      .db-subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Inter', sans-serif; font-weight: 500; font-size: 11px; fill: #3B82F6; letter-spacing: 3px; text-transform: uppercase; }
+      .db-label { font-family: -apple-system, BlinkMacSystemFont, 'Inter', sans-serif; font-weight: 500; font-size: 10px; fill: #64748B; text-transform: uppercase; letter-spacing: 1.5px; }
+      .db-value { font-family: 'SF Mono', 'Fira Code', 'JetBrains Mono', monospace; font-weight: 700; font-size: 32px; fill: #F8FAFC; }
+      .db-value-sm { font-family: 'SF Mono', 'Fira Code', monospace; font-weight: 600; font-size: 22px; fill: #F8FAFC; }
+      .db-text { font-family: -apple-system, BlinkMacSystemFont, 'Inter', sans-serif; font-weight: 500; font-size: 14px; fill: #CBD5E1; }
+      .db-text-mono { font-family: 'SF Mono', 'Fira Code', monospace; font-weight: 400; font-size: 13px; fill: #94A3B8; }
+      .db-card { fill: rgba(30, 41, 59, 0.35); rx: 14; }
+      .db-card-border { fill: none; stroke: rgba(255, 255, 255, 0.04); stroke-width: 1; rx: 14; }
+      .db-dot-green { fill: #10B981; }
+      .db-dot-blue { fill: #3B82F6; }
     </style>
   </defs>
   
-  <rect width="1000" height="400" rx="20" fill="url(#bg)"/>
-  
-  <text x="50" y="50" class="title">SYSTEM TELEMETRY</text>
-  <text x="950" y="50" text-anchor="end" class="label" fill="#3B82F6">LIVE - August 07, 2026</text>
+  <!-- Background -->
+  <rect width="1000" height="500" rx="20" fill="url(#db-bg)"/>
+  <rect width="1000" height="500" rx="20" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
 
-  <!-- Row 1 -->
-  <g transform="translate(50, 80)">
-    <rect width="210" height="120" class="card"/>
-    <text x="20" y="40" class="label">Days Active</text>
-    <text x="20" y="90" class="value">600</text>
+  <!-- Header -->
+  <text x="40" y="42" class="db-title">Engineering Command Center</text>
+  <g transform="translate(920, 35)">
+    <circle cx="0" cy="0" r="4" class="db-dot-green" opacity="0.8">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="12" y="4" class="db-subtitle" font-size="10" letter-spacing="1.5px">LIVE</text>
   </g>
-  
-  <g transform="translate(285, 80)">
-    <rect width="210" height="120" class="card"/>
-    <text x="20" y="40" class="label">Total Commits</text>
-    <text x="20" y="90" class="value">178</text>
-  </g>
+  <rect x="40" y="55" width="920" height="1" fill="url(#db-accent)" opacity="0.3"/>
+  <text x="960" y="42" text-anchor="end" class="db-label" font-size="9">August 07, 2026</text>
 
-  <g transform="translate(520, 80)">
-    <rect width="210" height="120" class="card"/>
-    <text x="20" y="40" class="label">Pull Requests</text>
-    <text x="20" y="90" class="value">0</text>
-  </g>
-
-  <g transform="translate(755, 80)">
-    <rect width="210" height="120" class="card"/>
-    <text x="20" y="40" class="label">Issues</text>
-    <text x="20" y="90" class="value">0</text>
+  <!-- Row 1: Primary Metrics -->
+  <g transform="translate(40, 75)">
+    <rect width="175" height="110" class="db-card"/>
+    <rect width="175" height="110" class="db-card-border"/>
+    <text x="20" y="32" class="db-label">GitHub Since</text>
+    <text x="20" y="78" class="db-value">2024</text>
   </g>
 
-  <!-- Row 2 -->
-  <g transform="translate(50, 220)">
-    <rect width="325" height="120" class="card"/>
-    <text x="20" y="40" class="label">Latest Repository</text>
-    <text x="20" y="80" class="value" style="font-size: 20px; fill: #F8FAFC;">kranthi-06/kranthi-06</text>
+  <g transform="translate(230, 75)">
+    <rect width="175" height="110" class="db-card"/>
+    <rect width="175" height="110" class="db-card-border"/>
+    <text x="20" y="32" class="db-label">Days Active</text>
+    <text x="20" y="78" class="db-value">600</text>
   </g>
 
-  <g transform="translate(400, 220)">
-    <rect width="565" height="120" class="card"/>
-    <text x="20" y="40" class="label">Latest Commit</text>
-    <text x="20" y="80" class="value" style="font-size: 18px; fill: #E2E8F0;">No recent commits</text>
+  <g transform="translate(420, 75)">
+    <rect width="175" height="110" class="db-card"/>
+    <rect width="175" height="110" class="db-card-border"/>
+    <text x="20" y="32" class="db-label">Repositories</text>
+    <text x="20" y="78" class="db-value">7</text>
   </g>
+
+  <g transform="translate(610, 75)">
+    <rect width="175" height="110" class="db-card"/>
+    <rect width="175" height="110" class="db-card-border"/>
+    <text x="20" y="32" class="db-label">Total Commits</text>
+    <text x="20" y="78" class="db-value">184</text>
+  </g>
+
+  <g transform="translate(800, 75)">
+    <rect width="160" height="110" class="db-card"/>
+    <rect width="160" height="110" class="db-card-border"/>
+    <text x="20" y="32" class="db-label">This Week</text>
+    <text x="20" y="78" class="db-value">0</text>
+  </g>
+
+  <!-- Row 2: Secondary Metrics -->
+  <g transform="translate(40, 205)">
+    <rect width="175" height="110" class="db-card"/>
+    <rect width="175" height="110" class="db-card-border"/>
+    <text x="20" y="32" class="db-label">Deployments</text>
+    <text x="20" y="72" class="db-value-sm">3</text>
+    <circle cx="155" cy="30" r="6" class="db-dot-green" opacity="0.6"/>
+    <text x="20" y="95" class="db-label" font-size="9" fill="#10B981">● PRODUCTION</text>
+  </g>
+
+  <g transform="translate(230, 205)">
+    <rect width="175" height="110" class="db-card"/>
+    <rect width="175" height="110" class="db-card-border"/>
+    <text x="20" y="32" class="db-label">Stars</text>
+    <text x="20" y="72" class="db-value-sm">0</text>
+    <text x="20" y="95" class="db-label" font-size="9" fill="#64748B">OPEN SOURCE</text>
+  </g>
+
+  <g transform="translate(420, 205)">
+    <rect width="175" height="110" class="db-card"/>
+    <rect width="175" height="110" class="db-card-border"/>
+    <text x="20" y="32" class="db-label">Followers</text>
+    <text x="20" y="72" class="db-value-sm">1</text>
+    <text x="20" y="95" class="db-label" font-size="9" fill="#64748B">COMMUNITY</text>
+  </g>
+
+  <g transform="translate(610, 205)">
+    <rect width="350" height="110" class="db-card"/>
+    <rect width="350" height="110" class="db-card-border"/>
+    <text x="20" y="32" class="db-label">Current Focus</text>
+    <text x="20" y="72" class="db-text" style="font-size: 18px; font-weight: 600; fill: #F8FAFC;">Agentic AI & Production Systems</text>
+    <circle cx="330" cy="30" r="4" class="db-dot-blue" opacity="0.5">
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Row 3: Activity -->
+  <g transform="translate(40, 335)">
+    <rect width="440" height="95" class="db-card"/>
+    <rect width="440" height="95" class="db-card-border"/>
+    <text x="20" y="30" class="db-label">Latest Commit</text>
+    <text x="20" y="60" class="db-text-mono">No recent commits</text>
+    <text x="20" y="80" class="db-label" font-size="9" fill="#475569">kranthi-06/kranthi-06</text>
+  </g>
+
+  <g transform="translate(500, 335)">
+    <rect width="460" height="95" class="db-card"/>
+    <rect width="460" height="95" class="db-card-border"/>
+    <text x="20" y="30" class="db-label">Engineering Score</text>
+    <g transform="translate(20, 50)">
+      <rect width="400" height="6" rx="3" fill="#1E293B"/>
+      <rect width="320" height="6" rx="3" fill="#3B82F6" opacity="0.8"/>
+    </g>
+    <text x="440" y="58" text-anchor="end" class="db-text" style="font-weight: 700; fill: #60A5FA; font-size: 16px;">80%</text>
+    <text x="20" y="80" class="db-label" font-size="9" fill="#475569">REPOS · COMMITS · DEPLOYMENTS · ACTIVITY</text>
+  </g>
+
+  <!-- Footer -->
+  <rect x="40" y="450" width="920" height="1" fill="url(#db-accent)" opacity="0.15"/>
+  <text x="40" y="478" class="db-label" font-size="9" fill="#475569">AUTOMATED VIA GITHUB ACTIONS · UPDATES EVERY 6 HOURS</text>
+  <text x="960" y="478" text-anchor="end" class="db-label" font-size="9" fill="#475569">kranthi-06/kranthi-06</text>
 </svg>

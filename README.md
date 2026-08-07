@@ -44,7 +44,7 @@
 <h2 align="center">Engineering Command Center</h2>
 
 <div align="center">
-  <p style="color: #475569; font-size: 13px;"><i>Automatically updated every 6 hours via GitHub Actions</i></p>
+  <p style="color: #475569; font-size: 13px;"><i>Automatically updated every 6 hours via GitHub Actions &middot; August 07, 2026</i></p>
   <picture>
     <img src="assets/dashboard.svg" width="1000" alt="Live Engineering Dashboard" />
   </picture>
@@ -297,7 +297,7 @@
 
 <div align="center">
   <p>
-    <b>LeetCode</b> &nbsp; · &nbsp; <picture><img src="https://img.shields.io/badge/Solving-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></picture> &nbsp; · &nbsp; <a href="https://leetcode.com/u/kasakranthi06/">View Profile →</a>
+    <b>LeetCode</b> &nbsp; · &nbsp; <picture><img src="https://img.shields.io/badge/0_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></picture> &nbsp; · &nbsp; <a href="https://leetcode.com/u/kasakranthi06/">View Profile →</a>
   </p>
   <p>
     <b>HackerRank</b> &nbsp; · &nbsp; <picture><img src="https://img.shields.io/badge/Python_·_Problem_Solving-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></picture> &nbsp; · &nbsp; <a href="https://www.hackerrank.com/profile/kasakk2006">View Profile →</a>

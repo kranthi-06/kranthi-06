@@ -1,7 +1,9 @@
 {
     "gh": {
+        "github_since": "2024",
         "days_on_github": 600,
-        "total_commits": 178,
+        "total_commits": 184,
+        "commits_this_week": 0,
         "public_repos": 7,
         "followers": 1,
         "stars": 0,
@@ -50,5 +52,7 @@
             "tech": "TensorFlow, NLP"
         }
     ],
+    "online_deployments": 3,
+    "current_focus": "Agentic AI & Production Systems",
     "date": "August 07, 2026"
 }
