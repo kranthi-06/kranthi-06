@@ -62,11 +62,11 @@
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/Agentic_AI_Systems-0F172A?style=flat-square&logoColor=60A5FA" alt="Agentic AI"/>
-    <img src="https://img.shields.io/badge/AI_Developer_Platform-0F172A?style=flat-square&logoColor=60A5FA" alt="AI Platform"/>
-    <img src="https://img.shields.io/badge/Computer_Vision_Products-0F172A?style=flat-square&logoColor=60A5FA" alt="CV Products"/>
-    <img src="https://img.shields.io/badge/Intelligent_Automation-0F172A?style=flat-square&logoColor=60A5FA" alt="Automation"/>
-    <img src="https://img.shields.io/badge/Cloud_Native_AI-0F172A?style=flat-square&logoColor=60A5FA" alt="Cloud AI"/>
+    <picture><img src="https://img.shields.io/badge/Agentic_AI_Systems-0F172A?style=flat-square&logoColor=60A5FA" alt="Agentic AI"/></picture>
+    <picture><img src="https://img.shields.io/badge/AI_Developer_Platform-0F172A?style=flat-square&logoColor=60A5FA" alt="AI Platform"/></picture>
+    <picture><img src="https://img.shields.io/badge/Computer_Vision_Products-0F172A?style=flat-square&logoColor=60A5FA" alt="CV Products"/></picture>
+    <picture><img src="https://img.shields.io/badge/Intelligent_Automation-0F172A?style=flat-square&logoColor=60A5FA" alt="Automation"/></picture>
+    <picture><img src="https://img.shields.io/badge/Cloud_Native_AI-0F172A?style=flat-square&logoColor=60A5FA" alt="Cloud AI"/></picture>
   </p>
 </div>
 
@@ -88,7 +88,7 @@
     <img src="assets/screenshots/Lakshyatrack.png" width="75%" alt="LakshyaTrack — AI Career Platform" style="border-radius: 12px;" />
   </picture>
   <br/><br/>
-  <img src="https://img.shields.io/badge/●_Production-10B981?style=flat-square&logoColor=white" alt="Production"/>
+  <picture><img src="https://img.shields.io/badge/●_Production-10B981?style=flat-square&logoColor=white" alt="Production"/></picture>
   <br/><br/>
   <h3>LakshyaTrack</h3>
   <p style="color: #94A3B8; max-width: 560px; margin: 0 auto;">
@@ -96,9 +96,9 @@
   </p>
   <br/>
   <p>
-    <img src="https://img.shields.io/badge/Next.js-1E293B?style=flat-square&logo=next.js&logoColor=60A5FA" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=60A5FA" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/AI-1E293B?style=flat-square&logo=openai&logoColor=60A5FA" alt="AI"/>
+    <picture><img src="https://img.shields.io/badge/Next.js-1E293B?style=flat-square&logo=next.js&logoColor=60A5FA" alt="Next.js"/></picture>
+    <picture><img src="https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=60A5FA" alt="TypeScript"/></picture>
+    <picture><img src="https://img.shields.io/badge/AI-1E293B?style=flat-square&logo=openai&logoColor=60A5FA" alt="AI"/></picture>
   </p>
   <p>
     <a href="https://github.com/kranthi-06/LakshyaTrack"><img src="https://img.shields.io/badge/Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
@@ -114,7 +114,7 @@
     <img src="assets/screenshots/Energent.png" width="75%" alt="Emergent — Smart Agriculture IoT Platform" style="border-radius: 12px;" />
   </picture>
   <br/><br/>
-  <img src="https://img.shields.io/badge/●_Production-10B981?style=flat-square&logoColor=white" alt="Production"/>
+  <picture><img src="https://img.shields.io/badge/●_Production-10B981?style=flat-square&logoColor=white" alt="Production"/></picture>
   <br/><br/>
   <h3>Emergent</h3>
   <p style="color: #94A3B8; max-width: 560px; margin: 0 auto;">
@@ -122,9 +122,9 @@
   </p>
   <br/>
   <p>
-    <img src="https://img.shields.io/badge/IoT-1E293B?style=flat-square&logo=arduino&logoColor=60A5FA" alt="IoT"/>
-    <img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=60A5FA" alt="React"/>
-    <img src="https://img.shields.io/badge/Node.js-1E293B?style=flat-square&logo=nodedotjs&logoColor=60A5FA" alt="Node.js"/>
+    <picture><img src="https://img.shields.io/badge/IoT-1E293B?style=flat-square&logo=arduino&logoColor=60A5FA" alt="IoT"/></picture>
+    <picture><img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=60A5FA" alt="React"/></picture>
+    <picture><img src="https://img.shields.io/badge/Node.js-1E293B?style=flat-square&logo=nodedotjs&logoColor=60A5FA" alt="Node.js"/></picture>
   </p>
   <p>
     <a href="https://github.com/kranthi-06/emergent"><img src="https://img.shields.io/badge/Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
@@ -140,7 +140,7 @@
     <img src="assets/screenshots/portfolio.png" width="75%" alt="Portfolio — Modern Developer Portfolio" style="border-radius: 12px;" />
   </picture>
   <br/><br/>
-  <img src="https://img.shields.io/badge/●_Production-10B981?style=flat-square&logoColor=white" alt="Production"/>
+  <picture><img src="https://img.shields.io/badge/●_Production-10B981?style=flat-square&logoColor=white" alt="Production"/></picture>
   <br/><br/>
   <h3>Professional Portfolio</h3>
   <p style="color: #94A3B8; max-width: 560px; margin: 0 auto;">
@@ -148,9 +148,9 @@
   </p>
   <br/>
   <p>
-    <img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=60A5FA" alt="React"/>
-    <img src="https://img.shields.io/badge/Framer_Motion-1E293B?style=flat-square&logo=framer&logoColor=60A5FA" alt="Framer Motion"/>
-    <img src="https://img.shields.io/badge/Vercel-1E293B?style=flat-square&logo=vercel&logoColor=60A5FA" alt="Vercel"/>
+    <picture><img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=60A5FA" alt="React"/></picture>
+    <picture><img src="https://img.shields.io/badge/Framer_Motion-1E293B?style=flat-square&logo=framer&logoColor=60A5FA" alt="Framer Motion"/></picture>
+    <picture><img src="https://img.shields.io/badge/Vercel-1E293B?style=flat-square&logo=vercel&logoColor=60A5FA" alt="Vercel"/></picture>
   </p>
   <p>
     <a href="https://github.com/kranthi-06/Portfolio"><img src="https://img.shields.io/badge/Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
@@ -166,7 +166,7 @@
     <img src="assets/screenshots/AI%20leaf%20disease%20analysis.png" width="75%" alt="AI Plant Disease — Computer Vision for Agriculture" style="border-radius: 12px;" />
   </picture>
   <br/><br/>
-  <img src="https://img.shields.io/badge/●_Production-10B981?style=flat-square&logoColor=white" alt="Production"/>
+  <picture><img src="https://img.shields.io/badge/●_Production-10B981?style=flat-square&logoColor=white" alt="Production"/></picture>
   <br/><br/>
   <h3>AI Plant Disease Analysis</h3>
   <p style="color: #94A3B8; max-width: 560px; margin: 0 auto;">
@@ -174,9 +174,9 @@
   </p>
   <br/>
   <p>
-    <img src="https://img.shields.io/badge/PyTorch-1E293B?style=flat-square&logo=pytorch&logoColor=60A5FA" alt="PyTorch"/>
-    <img src="https://img.shields.io/badge/OpenCV-1E293B?style=flat-square&logo=opencv&logoColor=60A5FA" alt="OpenCV"/>
-    <img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=60A5FA" alt="Python"/>
+    <picture><img src="https://img.shields.io/badge/PyTorch-1E293B?style=flat-square&logo=pytorch&logoColor=60A5FA" alt="PyTorch"/></picture>
+    <picture><img src="https://img.shields.io/badge/OpenCV-1E293B?style=flat-square&logo=opencv&logoColor=60A5FA" alt="OpenCV"/></picture>
+    <picture><img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=60A5FA" alt="Python"/></picture>
   </p>
   <p>
     <a href="https://github.com/kranthi-06/AI-Plant-Disease-Analysis"><img src="https://img.shields.io/badge/Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
@@ -188,7 +188,7 @@
 
 <!-- ━━━━━━━━ Speech to Sign ━━━━━━━━ -->
 <div align="center">
-  <img src="https://img.shields.io/badge/●_Research_Prototype-F59E0B?style=flat-square&logoColor=white" alt="Research"/>
+  <picture><img src="https://img.shields.io/badge/●_Research_Prototype-F59E0B?style=flat-square&logoColor=white" alt="Research"/></picture>
   <br/><br/>
   <h3>Speech to Sign Language</h3>
   <p style="color: #94A3B8; max-width: 560px; margin: 0 auto;">
@@ -196,9 +196,9 @@
   </p>
   <br/>
   <p>
-    <img src="https://img.shields.io/badge/TensorFlow-1E293B?style=flat-square&logo=tensorflow&logoColor=60A5FA" alt="TensorFlow"/>
-    <img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=60A5FA" alt="Python"/>
-    <img src="https://img.shields.io/badge/NLP-1E293B?style=flat-square&logo=openai&logoColor=60A5FA" alt="NLP"/>
+    <picture><img src="https://img.shields.io/badge/TensorFlow-1E293B?style=flat-square&logo=tensorflow&logoColor=60A5FA" alt="TensorFlow"/></picture>
+    <picture><img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=60A5FA" alt="Python"/></picture>
+    <picture><img src="https://img.shields.io/badge/NLP-1E293B?style=flat-square&logo=openai&logoColor=60A5FA" alt="NLP"/></picture>
   </p>
   <p>
     <a href="https://github.com/kranthi-06/Speech-to-Sign"><img src="https://img.shields.io/badge/Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -219,44 +219,44 @@
 
 <div align="center">
   <p><b>Languages</b></p>
-  <img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=60A5FA" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=60A5FA" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=60A5FA" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C++-1E293B?style=flat-square&logo=c%2B%2B&logoColor=60A5FA" alt="C++"/>
-  <img src="https://img.shields.io/badge/Go-1E293B?style=flat-square&logo=go&logoColor=60A5FA" alt="Go"/>
+  <picture><img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=60A5FA" alt="Python"/></picture>
+  <picture><img src="https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=60A5FA" alt="TypeScript"/></picture>
+  <picture><img src="https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=60A5FA" alt="JavaScript"/></picture>
+  <picture><img src="https://img.shields.io/badge/C++-1E293B?style=flat-square&logo=c%2B%2B&logoColor=60A5FA" alt="C++"/></picture>
+  <picture><img src="https://img.shields.io/badge/Go-1E293B?style=flat-square&logo=go&logoColor=60A5FA" alt="Go"/></picture>
 </div>
 
 <div align="center">
   <p><b>Frontend</b></p>
-  <img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=60A5FA" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-1E293B?style=flat-square&logo=next.js&logoColor=60A5FA" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-1E293B?style=flat-square&logo=tailwindcss&logoColor=60A5FA" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-1E293B?style=flat-square&logo=framer&logoColor=60A5FA" alt="Framer Motion"/>
+  <picture><img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=60A5FA" alt="React"/></picture>
+  <picture><img src="https://img.shields.io/badge/Next.js-1E293B?style=flat-square&logo=next.js&logoColor=60A5FA" alt="Next.js"/></picture>
+  <picture><img src="https://img.shields.io/badge/TailwindCSS-1E293B?style=flat-square&logo=tailwindcss&logoColor=60A5FA" alt="TailwindCSS"/></picture>
+  <picture><img src="https://img.shields.io/badge/Framer_Motion-1E293B?style=flat-square&logo=framer&logoColor=60A5FA" alt="Framer Motion"/></picture>
 </div>
 
 <div align="center">
   <p><b>Backend & Database</b></p>
-  <img src="https://img.shields.io/badge/Node.js-1E293B?style=flat-square&logo=nodedotjs&logoColor=2563EB" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=2563EB" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-1E293B?style=flat-square&logo=mongodb&logoColor=2563EB" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Firebase-1E293B?style=flat-square&logo=firebase&logoColor=2563EB" alt="Firebase"/>
+  <picture><img src="https://img.shields.io/badge/Node.js-1E293B?style=flat-square&logo=nodedotjs&logoColor=2563EB" alt="Node.js"/></picture>
+  <picture><img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=2563EB" alt="PostgreSQL"/></picture>
+  <picture><img src="https://img.shields.io/badge/MongoDB-1E293B?style=flat-square&logo=mongodb&logoColor=2563EB" alt="MongoDB"/></picture>
+  <picture><img src="https://img.shields.io/badge/Firebase-1E293B?style=flat-square&logo=firebase&logoColor=2563EB" alt="Firebase"/></picture>
 </div>
 
 <div align="center">
   <p><b>AI & Computer Vision</b></p>
-  <img src="https://img.shields.io/badge/PyTorch-1E293B?style=flat-square&logo=pytorch&logoColor=2563EB" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-1E293B?style=flat-square&logo=tensorflow&logoColor=2563EB" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/OpenCV-1E293B?style=flat-square&logo=opencv&logoColor=2563EB" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/HuggingFace-1E293B?style=flat-square&logo=huggingface&logoColor=2563EB" alt="HuggingFace"/>
-  <img src="https://img.shields.io/badge/OpenAI-1E293B?style=flat-square&logo=openai&logoColor=2563EB" alt="OpenAI"/>
+  <picture><img src="https://img.shields.io/badge/PyTorch-1E293B?style=flat-square&logo=pytorch&logoColor=2563EB" alt="PyTorch"/></picture>
+  <picture><img src="https://img.shields.io/badge/TensorFlow-1E293B?style=flat-square&logo=tensorflow&logoColor=2563EB" alt="TensorFlow"/></picture>
+  <picture><img src="https://img.shields.io/badge/OpenCV-1E293B?style=flat-square&logo=opencv&logoColor=2563EB" alt="OpenCV"/></picture>
+  <picture><img src="https://img.shields.io/badge/HuggingFace-1E293B?style=flat-square&logo=huggingface&logoColor=2563EB" alt="HuggingFace"/></picture>
+  <picture><img src="https://img.shields.io/badge/OpenAI-1E293B?style=flat-square&logo=openai&logoColor=2563EB" alt="OpenAI"/></picture>
 </div>
 
 <div align="center">
   <p><b>Cloud & DevOps</b></p>
-  <img src="https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=2563EB" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-1E293B?style=flat-square&logo=amazonaws&logoColor=2563EB" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Vercel-1E293B?style=flat-square&logo=vercel&logoColor=2563EB" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-1E293B?style=flat-square&logo=githubactions&logoColor=2563EB" alt="Actions"/>
+  <picture><img src="https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=2563EB" alt="Docker"/></picture>
+  <picture><img src="https://img.shields.io/badge/AWS-1E293B?style=flat-square&logo=amazonaws&logoColor=2563EB" alt="AWS"/></picture>
+  <picture><img src="https://img.shields.io/badge/Vercel-1E293B?style=flat-square&logo=vercel&logoColor=2563EB" alt="Vercel"/></picture>
+  <picture><img src="https://img.shields.io/badge/GitHub_Actions-1E293B?style=flat-square&logo=githubactions&logoColor=2563EB" alt="Actions"/></picture>
 </div>
 
 <br/>
@@ -297,13 +297,13 @@
 
 <div align="center">
   <p>
-    <b>LeetCode</b> &nbsp; · &nbsp; <img src="https://img.shields.io/badge/Solving-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/> &nbsp; · &nbsp; <a href="https://leetcode.com/u/kasakranthi06/">View Profile →</a>
+    <b>LeetCode</b> &nbsp; · &nbsp; <picture><img src="https://img.shields.io/badge/Solving-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></picture> &nbsp; · &nbsp; <a href="https://leetcode.com/u/kasakranthi06/">View Profile →</a>
   </p>
   <p>
-    <b>HackerRank</b> &nbsp; · &nbsp; <img src="https://img.shields.io/badge/Python_·_Problem_Solving-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/> &nbsp; · &nbsp; <a href="https://www.hackerrank.com/profile/kasakk2006">View Profile →</a>
+    <b>HackerRank</b> &nbsp; · &nbsp; <picture><img src="https://img.shields.io/badge/Python_·_Problem_Solving-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></picture> &nbsp; · &nbsp; <a href="https://www.hackerrank.com/profile/kasakk2006">View Profile →</a>
   </p>
   <p>
-    <b>Kaggle</b> &nbsp; · &nbsp; <img src="https://img.shields.io/badge/Datasets_·_Notebooks-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/> &nbsp; · &nbsp; <a href="https://www.kaggle.com/kasakranthi">View Profile →</a>
+    <b>Kaggle</b> &nbsp; · &nbsp; <picture><img src="https://img.shields.io/badge/Datasets_·_Notebooks-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/></picture> &nbsp; · &nbsp; <a href="https://www.kaggle.com/kasakranthi">View Profile →</a>
   </p>
 </div>
 
