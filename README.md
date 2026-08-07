@@ -1,31 +1,15 @@
 <div align="center">
-  <br/>
-  <h1>KASA KRANTHI KIRAN</h1>
-  <h3>AI Engineer &bull; Full Stack Developer</h3>
-  <p style="color: #94A3B8; font-size: 16px; line-height: 1.6; max-width: 600px;">
-    Building production-grade AI systems, computer vision applications, and scalable intelligent software.
-  </p>
-  <br/>
+  <picture>
+    <img src="assets/hero.svg" alt="Kasa Kranthi Kiran — AI Engineer and Full Stack Developer" width="100%" />
+  </picture>
+</div>
+
+<div align="center">
   <p>
-    <a href="https://kasakranthikiran.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=globe&logoColor=60A5FA" alt="Portfolio" /></a>
+    <a href="https://kasakranthikiran.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=safari&logoColor=60A5FA" alt="Portfolio" /></a>
     <a href="https://drive.google.com/file/d/1MscMLo312fe73d1Pxvwp2od7wpiIYxwT/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=googledrive&logoColor=10B981" alt="Resume" /></a>
     <a href="https://www.linkedin.com/in/kasakranthikiran06/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  </p>
-  <br/><br/>
-</div>
-
-<div align="center">
-  <picture>
-    <img src="assets/divider-gradient.svg" width="800" alt="Divider" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <h2>Mission</h2>
-  <p align="center" style="color: #94A3B8; font-size: 16px; line-height: 1.6; max-width: 700px; margin: 0 auto;">
-    <i>I build intelligent software that transforms complex AI research into intuitive products people actually enjoy using.</i>
+    <a href="mailto:kasakk2006@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
   </p>
 </div>
 
@@ -33,16 +17,36 @@
 
 <div align="center">
   <picture>
-    <img src="assets/divider-dots.svg" width="800" alt="Divider" />
+    <img src="assets/divider-gradient.svg" width="800" alt="" />
   </picture>
 </div>
 
-<h2 align="center">Live Engineering Dashboard</h2>
+<h2 align="center">About</h2>
 
 <div align="center">
-  <p style="color: #64748B;"><i>Telemetry automatically updated via GitHub Actions. Last Updated: Live</i></p>
+  <p style="color: #94A3B8; font-size: 15px; line-height: 1.8; max-width: 680px; margin: 0 auto;">
+    I'm an AI Engineer and Full Stack Developer passionate about turning complex machine learning research into products people actually use. My work spans computer vision, intelligent automation, and scalable web platforms — always with a focus on shipping production-ready software, not just prototypes.
+  </p>
+  <br/>
+  <p style="color: #94A3B8; font-size: 15px; line-height: 1.8; max-width: 680px; margin: 0 auto;">
+    I believe the best engineering happens at the intersection of deep technical skill and genuine product thinking. Every project I build solves a real problem — from helping students plan their careers with AI, to enabling farmers to monitor crops through IoT, to making communication more accessible through sign language translation.
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
   <picture>
-    <img src="assets/dashboard.svg" width="1000" alt="Engineering Dashboard" />
+    <img src="assets/divider-dots.svg" width="800" alt="" />
+  </picture>
+</div>
+
+<h2 align="center">Engineering Command Center</h2>
+
+<div align="center">
+  <p style="color: #475569; font-size: 13px;"><i>Automatically updated every 6 hours via GitHub Actions</i></p>
+  <picture>
+    <img src="assets/dashboard.svg" width="1000" alt="Live Engineering Dashboard" />
   </picture>
 </div>
 
@@ -50,7 +54,7 @@
 
 <div align="center">
   <picture>
-    <img src="assets/divider-gradient.svg" width="800" alt="Divider" />
+    <img src="assets/divider-gradient.svg" width="800" alt="" />
   </picture>
 </div>
 
@@ -58,7 +62,11 @@
 
 <div align="center">
   <p>
-    <b>Agentic AI Systems</b> &nbsp;&middot;&nbsp; <b>AI Developer Platform</b> &nbsp;&middot;&nbsp; <b>Computer Vision Products</b> &nbsp;&middot;&nbsp; <b>Intelligent Automation</b>
+    <img src="https://img.shields.io/badge/Agentic_AI_Systems-0F172A?style=flat-square&logoColor=60A5FA" alt="Agentic AI"/>
+    <img src="https://img.shields.io/badge/AI_Developer_Platform-0F172A?style=flat-square&logoColor=60A5FA" alt="AI Platform"/>
+    <img src="https://img.shields.io/badge/Computer_Vision_Products-0F172A?style=flat-square&logoColor=60A5FA" alt="CV Products"/>
+    <img src="https://img.shields.io/badge/Intelligent_Automation-0F172A?style=flat-square&logoColor=60A5FA" alt="Automation"/>
+    <img src="https://img.shields.io/badge/Cloud_Native_AI-0F172A?style=flat-square&logoColor=60A5FA" alt="Cloud AI"/>
   </p>
 </div>
 
@@ -66,7 +74,7 @@
 
 <div align="center">
   <picture>
-    <img src="assets/divider-dots.svg" width="800" alt="Divider" />
+    <img src="assets/divider-dots.svg" width="800" alt="" />
   </picture>
 </div>
 
@@ -74,116 +82,126 @@
 
 <br/>
 
-<!-- LakshyaTrack -->
+<!-- ━━━━━━━━ LakshyaTrack ━━━━━━━━ -->
 <div align="center">
   <picture>
-    <img src="assets/screenshots/Lakshyatrack.png" width="80%" alt="LakshyaTrack Preview" style="border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);" />
+    <img src="assets/screenshots/Lakshyatrack.png" width="75%" alt="LakshyaTrack — AI Career Platform" style="border-radius: 12px;" />
   </picture>
   <br/><br/>
-  <h3>🎯 LakshyaTrack</h3>
-  <p style="color: #94A3B8; max-width: 600px; margin: 0 auto;">
-    <i>AI-powered career platform helping students generate roadmaps, optimize resumes, and track progress using intelligent analytics.</i>
+  <img src="https://img.shields.io/badge/●_Production-10B981?style=flat-square&logoColor=white" alt="Production"/>
+  <br/><br/>
+  <h3>LakshyaTrack</h3>
+  <p style="color: #94A3B8; max-width: 560px; margin: 0 auto;">
+    AI-powered career platform helping students generate personalized roadmaps, optimize resumes, and monitor learning progress through intelligent analytics.
   </p>
   <br/>
   <p>
     <img src="https://img.shields.io/badge/Next.js-1E293B?style=flat-square&logo=next.js&logoColor=60A5FA" alt="Next.js"/>
     <img src="https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=60A5FA" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/Production-0F172A?style=flat-square&logoColor=10B981" alt="Production"/>
+    <img src="https://img.shields.io/badge/AI-1E293B?style=flat-square&logo=openai&logoColor=60A5FA" alt="AI"/>
   </p>
   <p>
-    <a href="https://github.com/kranthi-06/LakshyaTrack"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://lakshyatrack.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white&color=2563EB" alt="Live Demo" /></a>
+    <a href="https://github.com/kranthi-06/LakshyaTrack"><img src="https://img.shields.io/badge/Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+    <a href="https://lakshyatrack.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
   </p>
 </div>
 
-<br/><br/><br/>
+<br/><br/>
 
-<!-- Emergent -->
+<!-- ━━━━━━━━ Emergent ━━━━━━━━ -->
 <div align="center">
   <picture>
-    <img src="assets/screenshots/Energent.png" width="80%" alt="Emergent Smart Agriculture" style="border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);" />
+    <img src="assets/screenshots/Energent.png" width="75%" alt="Emergent — Smart Agriculture IoT Platform" style="border-radius: 12px;" />
   </picture>
   <br/><br/>
-  <h3>🌾 Emergent</h3>
-  <p style="color: #94A3B8; max-width: 600px; margin: 0 auto;">
-    <i>IoT-powered agriculture platform providing real-time monitoring, irrigation automation, and environmental analytics.</i>
+  <img src="https://img.shields.io/badge/●_Production-10B981?style=flat-square&logoColor=white" alt="Production"/>
+  <br/><br/>
+  <h3>Emergent</h3>
+  <p style="color: #94A3B8; max-width: 560px; margin: 0 auto;">
+    IoT-powered smart agriculture platform providing real-time environmental monitoring, irrigation automation, and crop analytics for precision farming.
   </p>
   <br/>
   <p>
     <img src="https://img.shields.io/badge/IoT-1E293B?style=flat-square&logo=arduino&logoColor=60A5FA" alt="IoT"/>
     <img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=60A5FA" alt="React"/>
-    <img src="https://img.shields.io/badge/Production-0F172A?style=flat-square&logoColor=10B981" alt="Production"/>
+    <img src="https://img.shields.io/badge/Node.js-1E293B?style=flat-square&logo=nodedotjs&logoColor=60A5FA" alt="Node.js"/>
   </p>
   <p>
-    <a href="https://github.com/kranthi-06/emergent"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://emergent-theta.vercel.app/dashboard"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white&color=2563EB" alt="Live Demo" /></a>
+    <a href="https://github.com/kranthi-06/emergent"><img src="https://img.shields.io/badge/Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+    <a href="https://emergent-theta.vercel.app/dashboard"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
   </p>
 </div>
 
-<br/><br/><br/>
+<br/><br/>
 
-<!-- Portfolio -->
+<!-- ━━━━━━━━ Portfolio ━━━━━━━━ -->
 <div align="center">
   <picture>
-    <img src="assets/screenshots/portfolio.png" width="80%" alt="Portfolio Website" style="border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);" />
+    <img src="assets/screenshots/portfolio.png" width="75%" alt="Portfolio — Modern Developer Portfolio" style="border-radius: 12px;" />
   </picture>
   <br/><br/>
-  <h3>💼 Professional Portfolio</h3>
-  <p style="color: #94A3B8; max-width: 600px; margin: 0 auto;">
-    <i>Production-grade developer portfolio featuring CMS, analytics, and AI-powered content management.</i>
+  <img src="https://img.shields.io/badge/●_Production-10B981?style=flat-square&logoColor=white" alt="Production"/>
+  <br/><br/>
+  <h3>Professional Portfolio</h3>
+  <p style="color: #94A3B8; max-width: 560px; margin: 0 auto;">
+    Production-grade developer portfolio with interactive animations, analytics integration, and premium user experience built on modern web technologies.
   </p>
   <br/>
   <p>
-    <img src="https://img.shields.io/badge/Framer_Motion-1E293B?style=flat-square&logo=framer&logoColor=60A5FA" alt="Framer Motion"/>
     <img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=60A5FA" alt="React"/>
-    <img src="https://img.shields.io/badge/Production-0F172A?style=flat-square&logoColor=10B981" alt="Production"/>
+    <img src="https://img.shields.io/badge/Framer_Motion-1E293B?style=flat-square&logo=framer&logoColor=60A5FA" alt="Framer Motion"/>
+    <img src="https://img.shields.io/badge/Vercel-1E293B?style=flat-square&logo=vercel&logoColor=60A5FA" alt="Vercel"/>
   </p>
   <p>
-    <a href="https://github.com/kranthi-06/Portfolio"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://kasakranthikiran.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white&color=2563EB" alt="Live Demo" /></a>
+    <a href="https://github.com/kranthi-06/Portfolio"><img src="https://img.shields.io/badge/Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+    <a href="https://kasakranthikiran.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
   </p>
 </div>
 
-<br/><br/><br/>
+<br/><br/>
 
-<!-- AI Plant Disease -->
+<!-- ━━━━━━━━ AI Plant Disease ━━━━━━━━ -->
 <div align="center">
   <picture>
-    <img src="assets/screenshots/AI%20leaf%20disease%20analysis.png" width="80%" alt="AI Plant Disease Analysis" style="border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);" />
+    <img src="assets/screenshots/AI%20leaf%20disease%20analysis.png" width="75%" alt="AI Plant Disease — Computer Vision for Agriculture" style="border-radius: 12px;" />
   </picture>
   <br/><br/>
-  <h3>🌱 AI Plant Disease</h3>
-  <p style="color: #94A3B8; max-width: 600px; margin: 0 auto;">
-    <i>Computer vision platform detecting plant diseases through deep learning for precision agriculture.</i>
+  <img src="https://img.shields.io/badge/●_Production-10B981?style=flat-square&logoColor=white" alt="Production"/>
+  <br/><br/>
+  <h3>AI Plant Disease Analysis</h3>
+  <p style="color: #94A3B8; max-width: 560px; margin: 0 auto;">
+    Deep learning application detecting crop diseases through computer vision, enabling early intervention and reducing agricultural losses through precision diagnostics.
   </p>
   <br/>
   <p>
     <img src="https://img.shields.io/badge/PyTorch-1E293B?style=flat-square&logo=pytorch&logoColor=60A5FA" alt="PyTorch"/>
     <img src="https://img.shields.io/badge/OpenCV-1E293B?style=flat-square&logo=opencv&logoColor=60A5FA" alt="OpenCV"/>
-    <img src="https://img.shields.io/badge/Production-0F172A?style=flat-square&logoColor=10B981" alt="Production"/>
+    <img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=60A5FA" alt="Python"/>
   </p>
   <p>
-    <a href="https://github.com/kranthi-06/AI-Plant-Disease-Analysis"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://ai-plant-disease-analysis.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white&color=2563EB" alt="Live Demo" /></a>
+    <a href="https://github.com/kranthi-06/AI-Plant-Disease-Analysis"><img src="https://img.shields.io/badge/Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+    <a href="https://ai-plant-disease-analysis.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
   </p>
 </div>
 
-<br/><br/><br/>
+<br/><br/>
 
-<!-- Speech to Sign -->
+<!-- ━━━━━━━━ Speech to Sign ━━━━━━━━ -->
 <div align="center">
-  <h3>🤟 Speech to Sign Language</h3>
-  <p style="color: #94A3B8; max-width: 600px; margin: 0 auto;">
-    <i>Accessibility platform converting speech into sign language animations using NLP and AI.</i>
+  <img src="https://img.shields.io/badge/●_Research_Prototype-F59E0B?style=flat-square&logoColor=white" alt="Research"/>
+  <br/><br/>
+  <h3>Speech to Sign Language</h3>
+  <p style="color: #94A3B8; max-width: 560px; margin: 0 auto;">
+    Accessibility-focused AI platform converting speech into sign language animations using natural language processing and deep learning.
   </p>
   <br/>
   <p>
     <img src="https://img.shields.io/badge/TensorFlow-1E293B?style=flat-square&logo=tensorflow&logoColor=60A5FA" alt="TensorFlow"/>
     <img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=60A5FA" alt="Python"/>
-    <img src="https://img.shields.io/badge/Research_Prototype-0F172A?style=flat-square&logoColor=F59E0B" alt="Research"/>
+    <img src="https://img.shields.io/badge/NLP-1E293B?style=flat-square&logo=openai&logoColor=60A5FA" alt="NLP"/>
   </p>
   <p>
-    <a href="https://github.com/kranthi-06/Speech-to-Sign"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://github.com/kranthi-06/Speech-to-Sign"><img src="https://img.shields.io/badge/Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 </div>
 
@@ -191,7 +209,7 @@
 
 <div align="center">
   <picture>
-    <img src="assets/divider-dots.svg" width="800" alt="Divider" />
+    <img src="assets/divider-gradient.svg" width="800" alt="" />
   </picture>
 </div>
 
@@ -201,72 +219,77 @@
 
 <div align="center">
   <p><b>Languages</b></p>
-  <picture><img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=60A5FA" alt="Python" /></picture>
-  <picture><img src="https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=60A5FA" alt="TypeScript" /></picture>
-  <picture><img src="https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=60A5FA" alt="JavaScript" /></picture>
-  <picture><img src="https://img.shields.io/badge/C++-1E293B?style=flat-square&logo=c%2B%2B&logoColor=60A5FA" alt="C++" /></picture>
-  <picture><img src="https://img.shields.io/badge/Go-1E293B?style=flat-square&logo=go&logoColor=60A5FA" alt="Go" /></picture>
+  <img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=60A5FA" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=60A5FA" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=60A5FA" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C++-1E293B?style=flat-square&logo=c%2B%2B&logoColor=60A5FA" alt="C++"/>
+  <img src="https://img.shields.io/badge/Go-1E293B?style=flat-square&logo=go&logoColor=60A5FA" alt="Go"/>
 </div>
 
 <div align="center">
   <p><b>Frontend</b></p>
-  <picture><img src="https://img.shields.io/badge/Next.js-1E293B?style=flat-square&logo=next.js&logoColor=60A5FA" alt="Next.js" /></picture>
-  <picture><img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=60A5FA" alt="React" /></picture>
-  <picture><img src="https://img.shields.io/badge/TailwindCSS-1E293B?style=flat-square&logo=tailwindcss&logoColor=60A5FA" alt="TailwindCSS" /></picture>
-  <picture><img src="https://img.shields.io/badge/Framer_Motion-1E293B?style=flat-square&logo=framer&logoColor=60A5FA" alt="Framer Motion" /></picture>
+  <img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=60A5FA" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-1E293B?style=flat-square&logo=next.js&logoColor=60A5FA" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-1E293B?style=flat-square&logo=tailwindcss&logoColor=60A5FA" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-1E293B?style=flat-square&logo=framer&logoColor=60A5FA" alt="Framer Motion"/>
 </div>
 
 <div align="center">
   <p><b>Backend & Database</b></p>
-  <picture><img src="https://img.shields.io/badge/Node.js-1E293B?style=flat-square&logo=nodedotjs&logoColor=2563EB" alt="Node.js" /></picture>
-  <picture><img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=2563EB" alt="PostgreSQL" /></picture>
-  <picture><img src="https://img.shields.io/badge/MongoDB-1E293B?style=flat-square&logo=mongodb&logoColor=2563EB" alt="MongoDB" /></picture>
+  <img src="https://img.shields.io/badge/Node.js-1E293B?style=flat-square&logo=nodedotjs&logoColor=2563EB" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=2563EB" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-1E293B?style=flat-square&logo=mongodb&logoColor=2563EB" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Firebase-1E293B?style=flat-square&logo=firebase&logoColor=2563EB" alt="Firebase"/>
 </div>
 
 <div align="center">
   <p><b>AI & Computer Vision</b></p>
-  <picture><img src="https://img.shields.io/badge/PyTorch-1E293B?style=flat-square&logo=pytorch&logoColor=2563EB" alt="PyTorch" /></picture>
-  <picture><img src="https://img.shields.io/badge/TensorFlow-1E293B?style=flat-square&logo=tensorflow&logoColor=2563EB" alt="TensorFlow" /></picture>
-  <picture><img src="https://img.shields.io/badge/OpenCV-1E293B?style=flat-square&logo=opencv&logoColor=2563EB" alt="OpenCV" /></picture>
-  <picture><img src="https://img.shields.io/badge/HuggingFace-1E293B?style=flat-square&logo=huggingface&logoColor=2563EB" alt="HuggingFace" /></picture>
-  <picture><img src="https://img.shields.io/badge/OpenAI-1E293B?style=flat-square&logo=openai&logoColor=2563EB" alt="OpenAI" /></picture>
+  <img src="https://img.shields.io/badge/PyTorch-1E293B?style=flat-square&logo=pytorch&logoColor=2563EB" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-1E293B?style=flat-square&logo=tensorflow&logoColor=2563EB" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/OpenCV-1E293B?style=flat-square&logo=opencv&logoColor=2563EB" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/HuggingFace-1E293B?style=flat-square&logo=huggingface&logoColor=2563EB" alt="HuggingFace"/>
+  <img src="https://img.shields.io/badge/OpenAI-1E293B?style=flat-square&logo=openai&logoColor=2563EB" alt="OpenAI"/>
 </div>
 
 <div align="center">
   <p><b>Cloud & DevOps</b></p>
-  <picture><img src="https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=2563EB" alt="Docker" /></picture>
-  <picture><img src="https://img.shields.io/badge/AWS-1E293B?style=flat-square&logo=amazonaws&logoColor=2563EB" alt="AWS" /></picture>
-  <picture><img src="https://img.shields.io/badge/Vercel-1E293B?style=flat-square&logo=vercel&logoColor=2563EB" alt="Vercel" /></picture>
-  <picture><img src="https://img.shields.io/badge/GitHub_Actions-1E293B?style=flat-square&logo=githubactions&logoColor=2563EB" alt="Actions" /></picture>
+  <img src="https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=2563EB" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-1E293B?style=flat-square&logo=amazonaws&logoColor=2563EB" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Vercel-1E293B?style=flat-square&logo=vercel&logoColor=2563EB" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-1E293B?style=flat-square&logo=githubactions&logoColor=2563EB" alt="Actions"/>
 </div>
 
 <br/>
 
 <div align="center">
   <picture>
-    <img src="assets/divider-gradient.svg" width="800" alt="Divider" />
+    <img src="assets/divider-dots.svg" width="800" alt="" />
   </picture>
 </div>
 
-<h2 align="center">Engineering Timeline</h2>
+<h2 align="center">Engineering Journey</h2>
 
 <br/>
 
 <div align="center">
-  <p><b>2023</b> &nbsp;&middot;&nbsp; <i>Started Programming</i></p>
-  <p style="color: #64748B;">↓</p>
   <p>
-    <b>2024</b> &nbsp;&middot;&nbsp; <i>Portfolio</i> &nbsp;&middot;&nbsp; <i>LakshyaTrack</i> &nbsp;&middot;&nbsp; <i>Emergent</i> &nbsp;&middot;&nbsp; <i>Plant Disease AI</i> &nbsp;&middot;&nbsp; <i>Speech to Sign</i>
+    <b>2023</b> &nbsp; · &nbsp; <i>Started Programming · First Projects · Foundation</i>
   </p>
-  <p style="color: #64748B;">↓</p>
-  <p><b>2026</b> &nbsp;&middot;&nbsp; <i>AI Engineering</i></p>
+  <p>↓</p>
+  <p>
+    <b>2024</b> &nbsp; · &nbsp; <i>Portfolio · LakshyaTrack · Emergent · Plant Disease AI · Speech to Sign</i>
+  </p>
+  <p>↓</p>
+  <p>
+    <b>2026</b> &nbsp; · &nbsp; <i>AI Engineering · Production Systems · Open Source</i>
+  </p>
 </div>
 
 <br/>
 
 <div align="center">
   <picture>
-    <img src="assets/divider-dots.svg" width="800" alt="Divider" />
+    <img src="assets/divider-gradient.svg" width="800" alt="" />
   </picture>
 </div>
 
@@ -274,13 +297,13 @@
 
 <div align="center">
   <p>
-    <b>LeetCode:</b> <picture><img src="https://img.shields.io/badge/Solved-Fetching-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></picture> &nbsp;&middot;&nbsp; <i>Profile</i> &nbsp;&middot;&nbsp; <a href="https://leetcode.com/u/kasakranthi06/">Open</a>
+    <b>LeetCode</b> &nbsp; · &nbsp; <img src="https://img.shields.io/badge/Solving-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/> &nbsp; · &nbsp; <a href="https://leetcode.com/u/kasakranthi06/">View Profile →</a>
   </p>
   <p>
-    <b>HackerRank:</b> <picture><img src="https://img.shields.io/badge/Python-Active-00EA64?style=flat-square&logo=hackerrank&logoColor=white" /></picture> &nbsp;&middot;&nbsp; <i>Problem Solving</i> &nbsp;&middot;&nbsp; <a href="https://www.hackerrank.com/profile/kasakk2006">Open</a>
+    <b>HackerRank</b> &nbsp; · &nbsp; <img src="https://img.shields.io/badge/Python_·_Problem_Solving-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/> &nbsp; · &nbsp; <a href="https://www.hackerrank.com/profile/kasakk2006">View Profile →</a>
   </p>
   <p>
-    <b>Kaggle:</b> <picture><img src="https://img.shields.io/badge/Datasets-Active-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></picture> &nbsp;&middot;&nbsp; <i>Notebooks</i> &nbsp;&middot;&nbsp; <a href="https://www.kaggle.com/kasakranthi">Open</a>
+    <b>Kaggle</b> &nbsp; · &nbsp; <img src="https://img.shields.io/badge/Datasets_·_Notebooks-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/> &nbsp; · &nbsp; <a href="https://www.kaggle.com/kasakranthi">View Profile →</a>
   </p>
 </div>
 
@@ -288,7 +311,7 @@
 
 <div align="center">
   <picture>
-    <img src="assets/divider-gradient.svg" width="800" alt="Divider" />
+    <img src="assets/divider-dots.svg" width="800" alt="" />
   </picture>
 </div>
 
@@ -296,7 +319,7 @@
 
 <div align="center">
   <picture>
-    <img src="assets/snake.svg" alt="Contribution Graph" width="100%" />
+    <img src="assets/snake.svg" alt="GitHub Contribution Graph" width="100%" />
   </picture>
 </div>
 
@@ -304,20 +327,26 @@
 
 <div align="center">
   <picture>
-    <img src="assets/divider-gradient.svg" width="800" alt="Divider" />
+    <img src="assets/divider-gradient.svg" width="800" alt="" />
   </picture>
+</div>
+
+<h2 align="center">Let's Build Something Together</h2>
+
+<br/>
+
+<div align="center">
+  <a href="https://kasakranthikiran.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=safari&logoColor=60A5FA" alt="Portfolio" /></a>
+  <a href="https://drive.google.com/file/d/1MscMLo312fe73d1Pxvwp2od7wpiIYxwT/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=googledrive&logoColor=10B981" alt="Resume" /></a>
+  <a href="https://www.linkedin.com/in/kasakranthikiran06/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://github.com/kranthi-06"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:kasakk2006@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <p style="color: #94A3B8; font-size: 16px;">
-    <i>Building intelligent software that creates real-world impact.</i>
-  </p>
-  <p>
-    <b>Kasa Kranthi Kiran</b><br/>
-    AI Engineer
-  </p>
+  <picture>
+    <img src="assets/footer-wave.svg" width="100%" alt="Footer" />
+  </picture>
 </div>
-
-<br/>
