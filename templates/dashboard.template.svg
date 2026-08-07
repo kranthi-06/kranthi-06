@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <style>
+      .title { font-family: -apple-system, BlinkMacSystemFont, 'Inter', sans-serif; font-weight: 700; font-size: 24px; fill: #FFFFFF; }
+      .label { font-family: -apple-system, BlinkMacSystemFont, 'Inter', sans-serif; font-weight: 500; font-size: 14px; fill: #64748B; text-transform: uppercase; letter-spacing: 1px;}
+      .value { font-family: 'SF Mono', 'Fira Code', monospace; font-weight: 600; font-size: 32px; fill: #60A5FA; }
+      .card { fill: rgba(30, 41, 59, 0.4); stroke: rgba(255, 255, 255, 0.05); stroke-width: 1; rx: 12; }
+    </style>
+  </defs>
+  
+  <rect width="1000" height="400" rx="20" fill="url(#bg)"/>
+  
+  <text x="50" y="50" class="title">SYSTEM TELEMETRY</text>
+  <text x="950" y="50" text-anchor="end" class="label" fill="#3B82F6">LIVE - {{ date }}</text>
+
+  <!-- Row 1 -->
+  <g transform="translate(50, 80)">
+    <rect width="210" height="120" class="card"/>
+    <text x="20" y="40" class="label">Days Active</text>
+    <text x="20" y="90" class="value">{{ gh.days_on_github }}</text>
+  </g>
+  
+  <g transform="translate(285, 80)">
+    <rect width="210" height="120" class="card"/>
+    <text x="20" y="40" class="label">Total Commits</text>
+    <text x="20" y="90" class="value">{{ gh.total_commits }}</text>
+  </g>
+
+  <g transform="translate(520, 80)">
+    <rect width="210" height="120" class="card"/>
+    <text x="20" y="40" class="label">Pull Requests</text>
+    <text x="20" y="90" class="value">{{ gh.total_prs }}</text>
+  </g>
+
+  <g transform="translate(755, 80)">
+    <rect width="210" height="120" class="card"/>
+    <text x="20" y="40" class="label">Issues</text>
+    <text x="20" y="90" class="value">{{ gh.total_issues }}</text>
+  </g>
+
+  <!-- Row 2 -->
+  <g transform="translate(50, 220)">
+    <rect width="325" height="120" class="card"/>
+    <text x="20" y="40" class="label">Latest Repository</text>
+    <text x="20" y="80" class="value" style="font-size: 20px; fill: #F8FAFC;">{{ gh.latest_repo }}</text>
+  </g>
+
+  <g transform="translate(400, 220)">
+    <rect width="565" height="120" class="card"/>
+    <text x="20" y="40" class="label">Latest Commit</text>
+    <text x="20" y="80" class="value" style="font-size: 18px; fill: #E2E8F0;">{{ gh.latest_commit }}</text>
+  </g>
+</svg>
