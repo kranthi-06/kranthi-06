@@ -58,14 +58,14 @@
     <rect width="175" height="110" class="db-card"/>
     <rect width="175" height="110" class="db-card-border"/>
     <text x="20" y="32" class="db-label">Repositories</text>
-    <text x="20" y="78" class="db-value">7</text>
+    <text x="20" y="78" class="db-value">8</text>
   </g>
 
   <g transform="translate(610, 75)">
     <rect width="175" height="110" class="db-card"/>
     <rect width="175" height="110" class="db-card-border"/>
     <text x="20" y="32" class="db-label">Total Commits</text>
-    <text x="20" y="78" class="db-value">188</text>
+    <text x="20" y="78" class="db-value">240</text>
   </g>
 
   <g transform="translate(800, 75)">
