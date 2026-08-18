@@ -51,21 +51,21 @@
     <rect width="175" height="110" class="db-card"/>
     <rect width="175" height="110" class="db-card-border"/>
     <text x="20" y="32" class="db-label">Days Active</text>
-    <text x="20" y="78" class="db-value">611</text>
+    <text x="20" y="78" class="db-value">612</text>
   </g>
 
   <g transform="translate(420, 75)">
     <rect width="175" height="110" class="db-card"/>
     <rect width="175" height="110" class="db-card-border"/>
     <text x="20" y="32" class="db-label">Repositories</text>
-    <text x="20" y="78" class="db-value">11</text>
+    <text x="20" y="78" class="db-value">12</text>
   </g>
 
   <g transform="translate(610, 75)">
     <rect width="175" height="110" class="db-card"/>
     <rect width="175" height="110" class="db-card-border"/>
     <text x="20" y="32" class="db-label">Total Commits</text>
-    <text x="20" y="78" class="db-value">256</text>
+    <text x="20" y="78" class="db-value">259</text>
   </g>
 
   <g transform="translate(800, 75)">
@@ -117,7 +117,7 @@
     <rect width="440" height="95" class="db-card-border"/>
     <text x="20" y="30" class="db-label">Latest Commit</text>
     <text x="20" y="60" class="db-text-mono">No recent commits</text>
-    <text x="20" y="80" class="db-label" font-size="9" fill="#475569">kranthi-06/Portfolio</text>
+    <text x="20" y="80" class="db-label" font-size="9" fill="#475569">kranthi-06/FlowBoard</text>
   </g>
 
   <g transform="translate(500, 335)">
