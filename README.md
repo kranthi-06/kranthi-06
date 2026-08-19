@@ -44,7 +44,7 @@
 <h2 align="center">Engineering Command Center</h2>
 
 <div align="center">
-  <p style="color: #475569; font-size: 13px;"><i>Automatically updated every 6 hours via GitHub Actions &middot; August 18, 2026</i></p>
+  <p style="color: #475569; font-size: 13px;"><i>Automatically updated every 6 hours via GitHub Actions &middot; August 19, 2026</i></p>
   <picture>
     <img src="assets/dashboard.svg" width="1000" alt="Live Engineering Dashboard" />
   </picture>
