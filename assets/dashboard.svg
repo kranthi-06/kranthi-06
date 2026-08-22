@@ -37,7 +37,7 @@
     <text x="12" y="4" class="db-subtitle" font-size="10" letter-spacing="1.5px">LIVE</text>
   </g>
   <rect x="40" y="55" width="920" height="1" fill="url(#db-accent)" opacity="0.3"/>
-  <text x="960" y="42" text-anchor="end" class="db-label" font-size="9">August 21, 2026</text>
+  <text x="960" y="42" text-anchor="end" class="db-label" font-size="9">August 22, 2026</text>
 
   <!-- Row 1: Primary Metrics -->
   <g transform="translate(40, 75)">
