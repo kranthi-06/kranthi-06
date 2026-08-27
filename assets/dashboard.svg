@@ -51,7 +51,7 @@
     <rect width="175" height="110" class="db-card"/>
     <rect width="175" height="110" class="db-card-border"/>
     <text x="20" y="32" class="db-label">Days Active</text>
-    <text x="20" y="78" class="db-value">620</text>
+    <text x="20" y="78" class="db-value">621</text>
   </g>
 
   <g transform="translate(420, 75)">
