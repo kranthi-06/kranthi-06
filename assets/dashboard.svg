@@ -117,7 +117,7 @@
     <rect width="440" height="95" class="db-card-border"/>
     <text x="20" y="30" class="db-label">Latest Commit</text>
     <text x="20" y="60" class="db-text-mono">No recent commits</text>
-    <text x="20" y="80" class="db-label" font-size="9" fill="#475569">kranthi-06/Advance_chatbot</text>
+    <text x="20" y="80" class="db-label" font-size="9" fill="#475569">kranthi-06/tradeai</text>
   </g>
 
   <g transform="translate(500, 335)">
