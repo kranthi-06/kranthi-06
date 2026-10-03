@@ -58,14 +58,14 @@
     <rect width="175" height="110" class="db-card"/>
     <rect width="175" height="110" class="db-card-border"/>
     <text x="20" y="32" class="db-label">Repositories</text>
-    <text x="20" y="78" class="db-value">14</text>
+    <text x="20" y="78" class="db-value">15</text>
   </g>
 
   <g transform="translate(610, 75)">
     <rect width="175" height="110" class="db-card"/>
     <rect width="175" height="110" class="db-card-border"/>
     <text x="20" y="32" class="db-label">Total Commits</text>
-    <text x="20" y="78" class="db-value">302</text>
+    <text x="20" y="78" class="db-value">551</text>
   </g>
 
   <g transform="translate(800, 75)">
@@ -89,7 +89,7 @@
     <rect width="175" height="110" class="db-card"/>
     <rect width="175" height="110" class="db-card-border"/>
     <text x="20" y="32" class="db-label">Stars</text>
-    <text x="20" y="72" class="db-value-sm">0</text>
+    <text x="20" y="72" class="db-value-sm">1</text>
     <text x="20" y="95" class="db-label" font-size="9" fill="#64748B">OPEN SOURCE</text>
   </g>
 
