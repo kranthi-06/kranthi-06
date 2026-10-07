@@ -37,7 +37,7 @@
     <text x="12" y="4" class="db-subtitle" font-size="10" letter-spacing="1.5px">LIVE</text>
   </g>
   <rect x="40" y="55" width="920" height="1" fill="url(#db-accent)" opacity="0.3"/>
-  <text x="960" y="42" text-anchor="end" class="db-label" font-size="9">October 06, 2026</text>
+  <text x="960" y="42" text-anchor="end" class="db-label" font-size="9">October 07, 2026</text>
 
   <!-- Row 1: Primary Metrics -->
   <g transform="translate(40, 75)">
@@ -117,7 +117,7 @@
     <rect width="440" height="95" class="db-card-border"/>
     <text x="20" y="30" class="db-label">Latest Commit</text>
     <text x="20" y="60" class="db-text-mono">No recent commits</text>
-    <text x="20" y="80" class="db-label" font-size="9" fill="#475569">kranthi-06/RealestateGPT</text>
+    <text x="20" y="80" class="db-label" font-size="9" fill="#475569">kranthi-06/Portfolio</text>
   </g>
 
   <g transform="translate(500, 335)">
