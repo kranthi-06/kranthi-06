@@ -2,15 +2,15 @@
     "gh": {
         "github_since": "2024",
         "days_on_github": 684,
-        "total_commits": 652,
+        "total_commits": 364,
         "commits_this_week": 0,
-        "public_repos": 15,
+        "public_repos": 14,
         "followers": 1,
-        "stars": 1,
+        "stars": 0,
         "forks": 0,
-        "total_prs": 5,
+        "total_prs": 2,
         "total_issues": 0,
-        "latest_repo": "kranthi-06/LakshyaTrack",
+        "latest_repo": "kranthi-06/RealestateGPT",
         "latest_commit": "No recent commits"
     },
     "lc": {
@@ -54,5 +54,5 @@
     ],
     "online_deployments": 3,
     "current_focus": "Agentic AI &amp; Production Systems",
-    "date": "October 29, 2026"
+    "date": "October 30, 2026"
 }
